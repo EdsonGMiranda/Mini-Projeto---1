@@ -14,3 +14,6 @@ https://www.kaggle.com/c/home-depot-product-search-relevance/data
 
 ## Mini-Projeto-4
 Este mini-projeto é um exercício onde você recebe um conjunto de dados brutos e o formato de saída necessário para trabalhar com os dados. Usando Linguagem Scala Apache Spark
+
+## Mini-Projeto-5
+Este mini-projeto tem como objetivo  é  extrair  de  um texto  (livro)  as  principais  entidades nomeadas (nomes  próprios)  e contar  a  ocorrência  de  cada  entidade. 
