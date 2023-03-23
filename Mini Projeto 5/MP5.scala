@@ -54,6 +54,6 @@ val df = result.toDF()
 df.printSchema()
 df.show(10)
 
-// 13- Salva o resultado em disco no formato csv
+// 13- Salva o resultado em disco no formato csv separado por virgula 
 df.write.format("csv").save("resultado")
 
