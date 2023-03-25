@@ -20,3 +20,7 @@ Este mini-projeto tem como objetivo  é  extrair  de  um texto  (livro)  as  pri
 
 ## Treinamento de conceitos Java 
 Matérial de apoio para fazer o mini-projeto-6 contendo conceitos de Java.
+
+
+## Mini-Projeto 6 
+Pipeline de Machine Learning em Java Para Previsão do Gasto Mensal com Combustível de Empresas de Transporte e Logística
