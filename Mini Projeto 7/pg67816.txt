@@ -1,0 +1,3154 @@
+﻿The Project Gutenberg eBook of The Bee Preserver; or, Practical
+Directions for the Management and Preservation of Hives, by Jonas De
+Gelieu
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: The Bee Preserver; or, Practical Directions for the Management
+       and Preservation of Hives
+
+Author: Jonas De Gelieu
+
+Translator: Anonymous
+
+Release Date: April 11, 2022 [eBook #67816]
+
+Language: English
+
+Produced by: Tom Cosmas compiled from materials made available at The
+             Internet Archive and placed in the Public Domain.
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE BEE PRESERVER; OR,
+PRACTICAL DIRECTIONS FOR THE MANAGEMENT AND PRESERVATION OF HIVES ***
+
+
+
+
+
+
+
+Transcriber Note
+
+Text emphasis denoted as _Italics_.
+
+
+                                  THE
+
+                            BEE PRESERVER.
+
+
+
+
+                                  THE
+
+                            BEE PRESERVER;
+
+                                  OR
+
+                PRACTICAL DIRECTIONS FOR THE MANAGEMENT
+                      AND PRESERVATION OF HIVES.
+
+
+                     TRANSLATED FROM THE FRENCH OF
+
+                           JONAS DE GELIEU,
+
+  LATE MINISTER OF LIGNIERES, AT PRESENT MINISTER OF THE CHURCHES OF
+ COLOMBIER AND AUVERNIER, IN THE PRINCIPALITY OF NEUCHATEL; MEMBER OF
+            THE SOCIETÉ ECONOMIQUE DE BERNE, &c., &c., &c.
+
+
+                        PUBLISHED AT MULHAUSEN.
+
+
+
+                     JOHN ANDERSON JUN. EDINBURGH,
+
+                       55, NORTH BRIDGE STREET;
+
+                   AND SIMPKIN AND MARSHALL, LONDON.
+
+                              MDCCCXXIX.
+
+
+                          P. NEILL, PRINTER.
+
+
+
+
+                                  TO
+
+                   THE HIGHLAND SOCIETY OF SCOTLAND.
+
+
+In respectfully dedicating this little Work to the Highland Society
+of Scotland, the Translator hopes, that, under their efficient and
+enlightened patronage, it may be made generally known in Scotland,
+where the system which it explains is calculated to be as extensively
+applicable, and as highly profitable, as it has proved in the native
+mountains of its amiable and venerable Author. It seems, indeed, both
+from the plain practical directions which it contains, and the valuable
+discoveries which it communicates relative to the history and economy
+of bees, to be singularly adapted to forward the views of the Society,
+who have this year turned their attention to the encouragement of
+Apiaries among the peasantry of our own country; and it is no small
+advantage, that the rules laid down are applicable to hives of every
+form.
+
+The Translator has no fear of its being objected, that plans which
+are very suitable in Switzerland, may be less successful as applied
+to Scotland. Switzerland and Scotland present so many points of
+resemblance--in their mountains--in their valleys--and in their
+climate--that which is beneficial in the one, can scarcely fail to be
+so in the other. And as the Swiss honey is known to be not only very
+abundant, but of a very superior flavour, especially in those districts
+where De Gelieu's or some similar plan is adopted, the Translator is
+desirous to see the simple and successful methods of that country
+transferred to our own, that the Scottish peasantry may derive from
+their practice the same advantages. To the Swiss peasantry, bees are
+a great source of wealth; a stranger is attracted by the appearance
+of substantial comfort, conveyed by well appointed apiaries, where
+the hives are ranged in double and triple rows along the sunny side,
+and under the shelter of the projecting roofs of the cottages; and in
+Scotland there is little doubt that, if similar care were bestowed on
+the cultivation of bees, they would be equally profitable.
+
+    Edinburgh,         }
+   _19th April, 1829_. }
+
+
+
+
+                               CONTENTS.
+
+
+                                                                    Page
+
+  CHAPTER I.--Situation of an apiary,                                 11
+         II.--Proper time to transport a swarm to the
+                situation designed for it,                            16
+        III.--Situation of the hives ought never to
+                be changed,                                           18
+         IV.--Most convenient shape of hives,                         21
+          V.--Hives of straw and wood,                                23
+         VI.--Thickness or solidity of hives,                         24
+        VII.--Size of the aperture or entrance of hives,              25
+       VIII.--To ascertain the weight of hives,                       27
+         IX.--Quantity of honey necessary to maintain a hive,         20
+          X.--The use of capes or hoods,                              34
+         XI.--How to expel the bees from the capes,                   41
+        XII.--Size of hives,                                          42
+       XIII.--Manner of uniting new swarms,                           44
+        XIV.--Methods of uniting two or three swarms in autumn,       48
+         XV.--Manner of uniting old hives in autumn,                  53
+        XVI.--Neighbouring hives should be united,                    55
+       XVII.--How to feed united swarms,                              59
+      XVIII.--Quantity of food requisite for united hives,            62
+        XIX.--Benefits resulting from the union of weak hives,        67
+         XX.--Time and manner of renewing old hives,                  71
+        XXI.--The signs by which to ascertain whether a hive
+                requires to be renewed,                               76
+       XXII.--Artificial swarms, and different methods of forming
+                them,                                                 84
+      XXIII.--Advantages of isolated hives,                           94
+       XXIV.--Enemies of bees, and means of overcoming them,          96
+        XXV.--Diseases of the bees,                                  106
+       XXVI.--Of the different varieties of bees, and their
+                language,                                            107
+      XXVII.--Signs of recognition among the bees,                   110
+     XXVIII.--Preservation of hives in winter, and means of
+                protecting them from the cold,                       112
+       XXIX.--Manner of preserving hives, by taking them into the
+                house in winter,                                     117
+              Conclusion,                                            121
+
+
+
+
+                                  THE
+
+                             BEE PRESERVER
+
+
+
+
+                           AUTHORS PREFACE.
+
+
+Having attained old age, I think it a duty, before quitting the world,
+to communicate to the public the observations I have made during
+sixty-four years that I have been occupied with bees. From my earliest
+years I have been very fond of these admirable insects. I began to
+observe them under the direction of my father, Jacques de Gelieu,
+pastor of the church of Bayards, and afterwards of that of Verrieres,
+in the principality of Neuchatel. He instructed me in the principles
+of this interesting study, and taught me to like and to admire it, by
+making me read the memoirs of the immortal Reaumur, with whom he had
+the honour to correspond. Being a nice observer, he had prepared, so
+early as 1746, a work in two volumes, entitled "A New and Economical
+Method for the Preservation and Increase of Bees, and how to procure
+a more abundant supply of Honey and Wax." But when his work was ready
+for the press, he lost in one day, by an unfortunate accident, the
+whole of his hives except one, which he presented to me, and which I
+subsequently managed under his direction.
+
+Thrown from that time into a succession of pressing occupations, he
+lost sight of the printing of his work, which is now in my possession,
+in his own handwriting. It contains the description of the storied
+hive, of which he was the inventor, and which has since been so
+variously modified. These hives have been made known only through his
+correspondence with M. de Reaumur, and other literary men, as will
+appear from the note at the end of this Preface.
+
+In the collection of observations which I now present to the public, I
+limit myself to what is strictly practical, leaving to superior minds,
+the Swammerdams, the Reaumurs, the Shirachs, the Hubers, to dive into
+the theory with which they are so successfully engaged.
+
+Theory, however, leads to practice; and I have built on the foundation
+which they have so skilfully laid down. I shall make known what my
+long experience has taught me to consider the best form of hives. To
+ascertain which merited the preference, I mixed all sizes and shapes
+of them in my apiary, noting down their condition and product, thus
+securing a result to which no doubt could attach; convinced that it
+is easier to multiply hives in good seasons than to preserve them in
+bad ones, since, in the first case, one has only to leave them in some
+measure to themselves, while in the second there must be assiduous care
+and attention bestowed on them. Vexed at hearing of the great losses
+that have so generally taken place of late years, and of the sensible
+and rapid diminution of these precious insects, I shall point out how I
+succeeded in preserving mine in the worst seasons, especially in those
+of 1812 and 1813; and I shall lay down the principles from which no one
+should swerve, if he wishes to be constantly successful.
+
+Many people are fond of bees--indeed have a passion for them; but it
+is not enough to be fond of them,--they must be skilfully taken care
+of, according to certain rules, applicable in every case, but more
+particularly in bad years. Mistaken care annoys them--niggardliness
+ruins them. In laying down rules, I shall always take care to assign my
+reasons for them.
+
+Among the discoveries which I had the happiness to make, there is one
+of the greatest importance to the practical apiarian, of which I had
+not even the slightest suspicion, and which astonished me so much that
+I could not believe my eyes. It was only after trials a hundred times
+repeated and diversified, that I could fully convince myself. The fact
+is certain, the reason is to me unknown, and I leave to persons more
+learned than myself to give the explanation.
+
+I have read most of the treatises that have been published on bees,
+and have found errors in most of them. To avoid them myself, I shall
+advance nothing that I have not verified by numerous experiments, which
+every one may repeat. I shall make my narrative as short as possible.
+
+I have said that the storied hives invented by my late father, were
+known only through his correspondence with M. de Reaumur, and other
+literary men; the following is the proof:
+
+Extract from the _Corps d'Observation of the Society of Commerce and
+Agriculture of Great Britain_, 1757-58. Printed at Rennes in 1761, page
+162.
+
+"Monsieur de la _Bourdonaye, Procureur General-Syndic_, to whom the
+custom of our peasants (of drowning the bees, or suffocating them with
+sulphur, in order to deprive them of all the store they have laid up to
+maintain them during the winter) has been long known, wrote to M. de
+Reaumur, during the last assembly of the states, 1756, to ask for some
+instructions on this subject.
+
+"This academician pointed out, in his answer, the methods which he had
+expounded in the fifth volume _des Memoires pour servir à l'Histoire
+Naturelle des Insectes_; but he recommends, more particularly, to use
+the curiously shaped hives, invented by Gelieu, a gentleman of the
+principality of Neuchatel.
+
+"Reaumur's letter, which, at first sight, seems to contain a sufficient
+description of Gelieu's hive, does not clear up certain difficulties
+that presented themselves in the detail, when we come to attempt their
+construction from his directions; and therefore Nevel, member of the
+Committee of Rennes, resolved to request a pattern hive from Reaumur
+himself, which he accordingly obtained, and sent to the society. It
+appears that hives of this kind would supply all that can be desired in
+the management of bees; but they would cost more than one louis each--a
+price infinitely beyond the reach of a labouring man, and which would
+even be too great for the rich. It was necessary, therefore, to think
+of profiting by the invention of Gelieu, in contriving hives so cheap
+that every peasant might use them.
+
+"Monsieur de la Bourdonaye, who paid great attention to this subject,
+kindly communicated to the Society both the letter of Reaumur, and the
+plan which he himself had formed, of making hives at a small expence.
+He began by using, on his own estate, those which he recommended as
+an experiment to the Society. It was called an _experiment_, because,
+in reality, notwithstanding the probability of success attending the
+use of hives like those of which he sent the model, his modesty made
+him afraid that experience might, in some shape, belie his hopes. The
+Society was not long in ordering hives to be made after the model. They
+have made trial of them in the different faubourgs of Rennes. The rainy
+summer has prevented these trials being completed, but the commencement
+has succeeded very well.
+
+"It is perhaps not altogether useless to give here an abridged
+exposition of the accidents that might be prevented, in changing the
+shape of ordinary hives, and of the means that might be employed for
+that purpose.
+
+"It has been already said, that it is but too common to suffocate or
+drown the bees, at the end of the season, for the sake of profiting
+by the honey and wax. Those who manage them with more profit and
+intelligence, watch the time when the hives are nearly full, to force
+the bees up into an empty hive. This operation must be done in fine
+weather, in order that the bees may have time to make a sufficient
+provision for the winter. This practice, though the best of those in
+use at present, causes considerable loss; the brood-comb is taken away
+with the wax; so that the proprietor loses a swarm just coming out, as
+well as the swarms that this one might have afterwards produced. It is
+this loss particularly that Gelieu would prevent.
+
+"The hives at present on trial are, in shape, like a little round
+tower, or hollow cylinder, composed of four equal pieces, placed one
+above another."
+
+"It is a certain fact, that the cells destined for the reception of
+eggs are always situated in the lower part of the hive, which is never
+disturbed. According to Gelieu's plan, it is only the storey above the
+hive that is taken, until after the brood-comb has furnished a swarm,
+and the swarm has taken flight.
+
+"It seems, then, the interest of Rennes to patronize Gelieu's hives;
+they guard against the inconveniences of the methods now in use; and
+this has induced Bourdonaye to adopt the means of making them of straw,
+in place of wood, like those of Gelieu.
+
+"Monsieur de la Bourdonaye's hives are a little higher priced than
+those in common use; but they give nearly a quarter more room, and
+are, of course, more profitable in regard to price; they are in the
+proportion of five to eight.
+
+"We shall soon be able to determine, with certainty, the advantages
+to be derived from this invention. Montluc has placed some joinings,
+such as Bourdonaye has contrived, underneath his own hives, upon his
+estate of Laille. Similar ones, at different places in the faubourgs of
+Rennes, will furnish decided proofs of comparison.
+
+"The preservation, and also the increase of bees, is an object of such
+interest to Brittany, that the peasants cannot be too much encouraged
+to turn their attention to it.
+
+"The Society is well aware that it will be necessary to publish general
+instructions on that head, and that the greatest merit of such a work
+will be to give _only necessary_ instructions, and nothing more. It
+must be made so simple and so cheap as to be within every one's reach,
+and, above all, applicable only to practical use. Any thing more is
+only fit for treatises wherein the authors are more occupied with
+the interests of their own self love, than with those of the public.
+But though much has been written on this subject, the Society is of
+opinion that there are yet observations and experiments to be made
+before publishing a document by which all the world might profit."
+
+On this long quotation, I shall merely take the liberty of remarking,
+that the only inconvenience ascribed to the storied hives, invented
+and made by my Father--the only objection made to them--is, that they
+are too dear, "that they will cost more than a louis each; a price
+infinitely beyond the reach of a labouring man." The price is high in
+Brittany, where wood is very dear. On the other hand, the model which
+my Father sent to Reaumur, was made with a great deal of nicety, as
+a common one would not have been worth offering to that illustrious
+academician who sent him in return a very handsome thermometer,
+graduated by himself. My Father's hives, more simply wrought, were less
+expensive.
+
+
+
+
+                                  THE
+
+                            BEE PRESERVER,
+
+                                  &c.
+
+
+
+                              CHAPTER I.
+
+                        SITUATION OF AN APIARY.
+
+
+The choice of a good situation is of the utmost consequence. An apiary
+will not thrive in a bad situation, however well it may be cared for in
+other respects.
+
+1. The hives must, above all things, be sheltered from the wind. It is
+the first precept of Virgil[1]. For that purpose, the force of the wind
+must be broken, either by houses or by lofty trees in the vicinity.
+A wall, however high, or a simple hedge, is not sufficient, because
+the bees that fly to the fields prefer stopping in places where the
+air is tranquil, near bushes, or along hedges or dells, where they
+find a much greater abundance of honey than in places exposed to gales
+of wind. They fatigue themselves flying from flower to flower, and
+still more returning to their dwelling, after having completed their
+little ladenings: with a rapid flight they get over a great extent of
+space, frequently against the wind; but, on approaching their hive,
+they slacken their speed, and advance, wheeling round and round, to
+recognize it. A mistake, at this time, might be fatal, and cost them
+their lives; and if, at this moment, they encounter a strong current
+of air, or a whirlwind, to repel them, they are again forced to wheel
+round to reconnoitre their habitation. After a hard struggle, the
+most vigorous arrive; the others fall, without power to rise again,
+especially when the air is cold, or the sky clouded. The ground will
+then be strewed with dying or dead bees, which never happens when the
+hives are placed in sheltered situations.
+
+[Footnote 1:
+
+  Principio sedes apibus statioque petenda,
+  Quo neque sit ventis aditus (nam pabula venti
+  Ferre domum prohibent).
+
+                           Virg. Georg. lib. iv. ]
+
+2_d_, The second condition of a good situation is its proximity to
+a fountain; or, still better, to a little brook, where the bees may
+drink[2]. Water is absolutely necessary, and enters as much as honey
+into the composition of the pap with which they nourish the brood; and
+the pollen or dust of flowers, which they bring home on their thighs,
+is also a very essential ingredient in this pap. The vicinity of deep
+waters is very hurtful to bees; and I have sometimes seen hundreds of
+them drowned attempting to drink out of a cistern.
+
+[Footnote 2:
+
+  "At liquidi fontes et stagna virentia musco
+  Adsint, et tenuis fugiens per gramina rivus."
+
+                                 Georg. l. iv. ]
+
+If there is no small stream or fountain near them, they should be
+supplied by troughs, filled with moss, and then water poured on it,
+until they are as full as they can hold. The working bees come in
+swarms to them in the spring, and quench their thirst without risk.
+
+3_d_, It is commonly believed that an apiary is not well situated
+unless it stands in the sun. This is an error; bees like the shade when
+working, and like the sun only when in the fields, which then animates
+and sustains them. For this reason, when people wish a swarm to settle,
+after it has left the hive, they hasten to cover it; because the shade
+induces them to rest, while a hot sun annoys them, and inclines them to
+take flight again. When we wish to disperse a cluster of bees off the
+front of a hive, we have only to expose it to the rays of the sun in
+the heat of the day. The bees then retreat under the hive, on the side,
+or behind it. They thrive well in thick forests, and delight in them;
+because there they find a uniform temperature and a propitious shade.
+How often, during the dog-days, have we not seen the honey running
+down, and the combs melting, in those hives exposed to the heat of the
+sun. In one hour, sometimes, a whole apiary will be destroyed. It is
+also a mistake to suppose hives exposed to the sun produce the earliest
+and strongest swarms. I have oftener than once experienced the reverse.
+My earliest swarms have generally come from the best shaded hives,
+and which only receive the sun late. I have even lost some in such
+situations, because they took flight sooner than we thought of watching
+them. We need never fear to shade a hive since Virgil recommends
+it[3]. If the roof does not project sufficiently to protect the hive
+from the sun in the heat of the day, I would advise them to be shaded
+with deals or pieces of matting.
+
+[Footnote 3:
+
+  "Palmaque vestibulum aut ingens oleaster obumbret."
+
+                                 Georg. iv. ]
+
+4_th_, The most favourable exposure is towards where the sun is from
+ten o'clock till mid-day. They should never be turned to the east or
+west, but, more especially to the north, where the cold and tempestuous
+winds would greatly injure them.
+
+5_th_, Hives should not be placed high, on a first or second floor,
+as I have sometimes seen them, unless they be completely sheltered;
+because the wind is less powerful near the ground than in elevated
+situations.
+
+
+
+
+                              CHAPTER II.
+
+                   PROPER TIME TO TRANSPORT A SWARM
+                   TO THE SITUATION DESIGNED FOR IT.
+
+
+Most people who have bees allow their swarms to remain till the evening
+in the place where they have alighted, and do not move them to the
+apiary till after sunset. This method has many inconveniences, which
+have been already pointed out by a most judicious and experienced
+author. As soon as a swarm has congregated in the new hive, and seems
+to be at ease in it, the most industrious among the bees fly off to the
+fields, but with a great many precautions. They descend the front of
+the hive, and turn to every side, to examine it thoroughly; then take
+flight, and make some circles in the air, in order to reconnoitre their
+new abode: they do the same in returning.
+
+If the swarm has taken flight in the morning, the same bees make
+several excursions during the day, and each time with less precaution,
+as, becoming familiarized with their dwelling, they are less afraid of
+mistaking it; and thus, next morning, supposing themselves in the same
+place, they take wing without having observed where they have spent
+the night, and surprised, at their return, not to find the hive in the
+same place, they fly about all day in search of it, until they perish
+with fatigue and despair. Thus, many hundreds of the most industrious
+labourers are lost, and this may be entirely avoided, if the swarm
+be removed as soon as the bees are perceived coming out, with the
+precautions I have mentioned. This sign alone is sufficient. Sometimes
+I do not even wait until all the bees clustered in front, or on the
+sides of the hive, are re-united to their companions in the interior,
+as they are never long in being so; and this plan has always fully
+succeeded with me.
+
+
+
+
+                             CHAPTER III.
+
+                     SITUATION OF THE HIVES OUGHT
+                         NEVER TO BE CHANGED.
+
+
+I have seen people shift about their hives very inconsiderately, but
+change of place invariably weakens them, as the bees will return to
+their old residence, the environs of which are so familiar to them. A
+hive should remain as fixed to the spot as the ancient oaks, in the
+hollows of which they delight to establish themselves,--where they
+have their young, their companions, their beloved queen, and all their
+treasures. When the young bees take wing for the first time, they do it
+with great precaution, turning round and round, and fluttering about
+the entrance, to examine the hive well before taking flight. They
+do the same in returning, so that they may be easily distinguished,
+conducting themselves nearly after the same maimer as the workers of a
+newly hived swarm.
+
+When they have made a few hundred excursions, they set off without
+examining the locality, and, returning in full flight, will know their
+own hive in the midst of a hundred others. But if you change its place
+you perplex them, much the same as you would be if, during a short
+absence, some one lifted your house and placed it a mile off. The
+poor bees return loaded, and, seeking in vain for their habitation,
+either fall down and perish with fatigue, or throw themselves into the
+neighbouring hives, where they are speedily put to death.
+
+The following fact proves how much these precious insects are attached
+to place, and how far they retain the recollection of it.
+
+During my residence at Lignieres, where I passed twenty-seven years, I
+removed all my hives into the house towards the middle of November, to
+guard them from the drifted snow, in which my apiary would sometimes be
+buried, and I replaced them again some fine day in March. Having hives
+of wood and straw, of different sizes and shapes, I arranged them with
+more order and symmetry, and, with this view, I placed the first on
+the opposite side of the apiary to where it formerly stood. Although
+it had been shut up nearly four months, the bees returned to the same
+place they had occupied the year before, which obliged me to return my
+hive with all speed, and led me to conclude that they should not be
+moved about, and that the bees will not be pliable to our fancies and
+caprices.
+
+When hives are transported to a considerable distance, there is no fear
+that the bees will return. But this inconvenience would be sure to take
+place, and many of the working bees would perish, if they were removed
+only a few hundred paces from the spot they have been accustomed
+to. The hive may not perish, but it will be greatly weakened. In my
+opinion, if the situation is to be changed at all, they should be
+removed at least a mile and a half.
+
+
+
+
+                              CHAPTER IV.
+
+                    MOST CONVENIENT SHAPE OF HIVES.
+
+
+One of the chief objects of my researches has been, to ascertain what
+shape of hive is the most profitable; and, with this view, I have
+tried all the different kinds in my apiary, and I have invariably
+remarked, that bees thrive better in low hives than in high ones; that,
+in general, those which are broad and flat, or extended horizontally,
+amass more honey, thrive better, and give out stronger and earlier
+swarms, than those which are high, and of several stories, and for the
+following reasons.
+
+A hive thrives only in proportion to the success or perfection of its
+brood-comb. If the spring eggs come out well, the hive will stock,
+give out swarms at the proper time, and collect a great deal of honey,
+because the strength of its population will enable it to take advantage
+of fine days; while a weak hive will only give out late swarms; and,
+having few labourers, will gather very little honey. It is, therefore,
+of great importance to assist the hive as much as possible, in the
+spring especially, when it is of itself too weak to keep up the
+necessary degree of heat for the hatching of the brood; and also, that
+in our climate there are frequently storms of frost and snow at that
+season, which are very prejudicial to it. If at that time the bees are
+lodged in high and roomy hives, they will crowd together in vain to
+procure the necessary degree of heat to vivify the brood-comb, which
+is always deposited in the middle of the hive, and the heat ascending
+is dissipated and lost in the empty space above. I have seen whole
+combs full of eggs do no good, in consequence of the want of heat. This
+never happens in the low, flat hives, where the heat is more easily
+concentrated; here, as the young bees come to life, the heat augments,
+and they assist in taking care of the others that are advancing, and
+begin to spread out on all sides, and entirely to fill the hive: the
+republic prospers, and increasing numbers are distinguished.
+
+It is, perhaps, for this reason that bees thrive well in conical or
+sugar-loaf shaped hives, which are common in some countries: but they
+have this disadvantage, that _capes_ cannot be so easily fitted to
+them, which facilitate the collecting of the finest honey, and of which
+I shall treat presently.
+
+
+
+
+                              CHAPTER V.
+
+                       HIVES OF STRAW AND WOOD.
+
+
+It is commonly supposed that bees thrive best in straw hives, because
+the straw absorbs the moisture, and the combs are less liable to mould.
+For my part, I can perceive no difference. The bees are careful enough
+to varnish over the interior of the straw hives with a coating of wax,
+or rather _propolis_, to prevent the settlement of the moths; and, in
+the old hives, this varnish is so thick that no moisture can penetrate
+between the cords of the straw. Wooden hives will also absorb moisture,
+to a certain extent; and experience has shewn me, that it is a matter
+of indifference which are employed, except as to the price, according
+as either material may be more or less abundant in different parts of
+the country.
+
+
+
+
+                              CHAPTER VI.
+
+                    THICKNESS OR SOLIDITY OF HIVES.
+
+
+Whatever may be the form or material of which hives are made,
+I strongly recommend not to be sparing of it, but to make them
+substantial. I would recommend that the boards of the wooden ones be
+an inch and a half thick; and that the straw-ropes of which the others
+are composed, be well twisted, and more than an inch in diameter.
+Such hives will be heavier and more unwieldy than thin hives, but
+they afford a better protection from the sun in summer, and the frost
+in winter. The heat of the sun is apt to melt the combs in summer:
+in winter the cold sometimes candies, and renders them useless; and,
+in the spring, the thin hives neither retain the heat necessary for
+hatching the eggs, nor for preserving the honey in a liquid state. One
+may easily be convinced of this, by laying some folds of linen on the
+top of the hive, and then passing the hand between them, and there will
+be a degree of warmth felt, which never happens where the hives are
+thick enough. They may be a little more costly, but the expence is more
+than compensated by the prosperity of the bees.
+
+
+
+
+                             CHAPTER VII.
+
+                        SIZE OF THE APERTURE OR
+                          ENTRANCE OF HIVES.
+
+
+It is of great importance to widen or contract the entrance, according
+to the season, or to the strength of the swarms; and for this purpose
+it is only necessary to have a few little wedges, or bits of wood,
+that may be taken out or put in at pleasure. Hives are weak in spring,
+because the bees are engaged in the interior, keeping warm, and
+taking care of the young, and the guard at the door is not strong
+enough to prevent invaders. Contract the door, therefore, and four
+bees will defend it better than thirty would do, if it were more
+spacious, and enlarge it again by degrees, according to the increase
+of the population. The working bees must have room enough to go out
+and in without hindrance; when they begin to crowd together in groups
+at the entrance, it is a sign of the interior being filled, and they
+should then have free access, as they will be strong enough to resist
+pillage. When the cluster becomes very large, which it will do as the
+drones increase, enlarge the entrance as much as possible. It is even
+advisable sometimes to open the hive a little at the top, in order
+to moderate, by a current of air, the excessive heat that forces the
+bees to the outside; and this is the only case in which there is any
+advantage in lofty hives. After the destruction of the drones, the
+population diminishes, and the bees no longer cluster outside, and then
+is the time to begin, by degrees, to contract the entrance, in order to
+prevent plunder.
+
+For this purpose, I use little wooden wedges first, because they cost
+nothing, as any body may make them with a knife and a bit of stick;
+and, secondly, because they help to protect them from the moths, which
+make sad havoc when once they gain access to a hive. They deposit their
+eggs in the interstices between the wedges and the hives, and they are
+hatched by the heated vapour that is expelled by the constant vibration
+of the wings of the bees. In the fine weather of April or May, I
+inspect my hives twice or three times a-week, before the bees go out
+in the morning, take out the wedges, and scrape and clean them with my
+knife; and, in this way, I protect them from the moths.
+
+
+
+
+                             CHAPTER VIII.
+
+                   TO ASCERTAIN THE WEIGHT OF HIVES.
+
+
+Many apiaries do not prosper, in consequence of the ignorance of those
+who have the care of them. How many people follow blindly the way they
+have been used to, without knowing wherefore; others go on by chance,
+without rule or guide. At one time they ruin their hives, by depriving
+them of too much of their honey; at another, they suffer whole colonies
+to die of hunger, when they might save them by giving them food;
+and, in autumn, they suffocate those that appear to be destitute of
+provisions, because they know not how or in what manner to preserve
+them. Few amateurs understand thoroughly the state and wants of their
+hives, and generally estimate them by lifting them up to feel their
+weight; and, as this may be the cause of numerous mistakes, some being
+three or four times heavier than others, it is of the utmost importance
+to know the exact weight of each hive, when empty, without either combs
+or bees. For this purpose, I expressly recommend, that each hive be
+weighed before putting a swarm into it, and the weight noted down in a
+memorandum book, as well as on a ticket nailed on the hive, the use of
+which we shall soon see.
+
+
+
+
+                              CHAPTER IX.
+
+                      QUANTITY OF HONEY NECESSARY
+                          TO MAINTAIN A HIVE.
+
+
+The quantity varies according to the climate. In southern countries,
+where there is scarcely any winter, the bees gather food till towards
+the end of autumn, and the flowers offer them pasture again very early
+in the spring. In these countries, therefore, they require a smaller
+winter store than in colder climates. The directions I am about to
+give, are only applicable to Switzerland, or to those countries which
+nearly resemble it in point of temperature. Every hive ought to have
+at least three pots of honey to nourish it during the winter; and,
+as the pot of honey, Neuchatel measure, weighs rather more than five
+pounds, of seventeen ounces to the pound, there should be fully fifteen
+pounds of honey allowed to each hive. Whether the swarm be strong or
+weak, large or small, is of no consequence, as the smallest swarm will
+consume as much as a large one. If they have less than that allowance,
+they may linger through the winter, but will be sure to die if the
+spring happens to be a late one, and the weather cold and rainy. If a
+hive is expected to swarm, it should be allowed a quarter more in the
+autumn, that is, twenty pounds of honey: or it may be supplied after
+another manner, which I shall point out. But let there be no higgling
+with bees; better that they have too much than too little: more prudent
+than man, they never waste or abuse their superfluity.
+
+In estimating the quantity of provisions that a hive contains, its
+age should be considered; and it is to be taken into account, that
+the black combs of old hives weigh ten times more than the white
+combs of a young one. It becomes, therefore, a matter of importance
+to know the weight of the empty hive, without which the quantity of
+provision cannot be estimated, and to weigh it again at the end of
+the honey season. When a swarm of the present year, at the end of
+autumn, weighs fifteen or sixteen pounds more than its original weight,
+I take nothing from it, and I give it nothing, being certain that
+it can maintain itself, if not plundered. If it has twenty-five, or
+even thirty pounds, neither do I touch it, as it will prosper so much
+the better next year. As to old hives, they ought, at the beginning
+of winter, to weigh twenty-five pounds above their original weight.
+I willingly leave them thirty or thirty-six pounds. The remainder I
+consider my own, and of course take it away.
+
+Some people will wonder at the quantity of provisions which I leave to
+my hives; but it is the true means, I may say the true secret, by which
+to insure swarms, for a starved one never produces. To this I have seen
+only one exception. I lavished honey upon a hive in spring, when it was
+crowded with bees, which were in want; this enabled it to give out a
+late swarm, but it never prospered. What surplus I bestow upon them,
+I consider as not lost, and that, sooner or later, it will return to
+me. Besides, the consumption is prodigious during the great _hatching_
+in the months of March, April, and May. It requires an incredible
+quantity to nourish the young in the state of _larvæ_ or worms. The
+larvæ are involved in a kind of pap, which its nurses lavish upon it,
+and which is chiefly composed of honey. If, at this time, there should
+happen to be whole weeks of cold rainy weather, and high winds, which
+is sometimes the case at that season, the poor bees, unable to get
+to the fields, will suffer severely if they have not honey in store;
+the hatching is interrupted till the return of fine weather; and the
+population makes no progress: while, in well provisioned hives, it goes
+on without intermission. Bees are very saving; but it is to our profit.
+Let us not deal grudgingly with them.
+
+Nevertheless, it is not advantageous to leave them greatly too much
+honey,--excessive super-abundance annoys them. In plentiful seasons,
+I have seen middling sized straw-hives in which the combs were filled
+with honey down to the very boards. This happens especially when the
+bees have enriched themselves with plunder in the autumn; and there
+are two inconveniences attending it; first, the bees have not room to
+deposit their brood, which, by the time the swarms are ready to go
+off, fills the hive almost entirely; secondly, the old honey candies,
+and, in that state, it is of no use to the bees. When hives are to be
+renewed by the cutting out of old combs, it is this kind that should,
+above all, be taken away. It is always to be found in old hives; and if
+it has been left several winters in the hive, it sours and contracts
+a disagreeable taste. The best use that can then be made of it is to
+dissolve it with more or less wine, and feed the bees with it on the
+approach of the swarming season; above all, when the weather is cold
+and rainy. Their activity is then increased by it.
+
+These succours will not be found superfluous even when the trees are
+in flower. In fine weather they find honey in abundance on them; but,
+should a few rainy days interrupt their labours, and throw them upon
+their own resources, the progress of the hatching is stopped, and
+injury is done to all.
+
+
+
+
+                              CHAPTER X.
+
+                      THE USE OF CAPES OR HOODS.
+
+
+Well made straw-hives ought to have a hole in the top, of about an inch
+or an inch and a half in diameter, which may be closed with a cork
+or stopper of wood. This stopper may be drawn out when it is found
+advisable to put a cape or hood on it, so as to give the bees more room
+to deposit their honey. These capes are little straw-hives capable
+of containing five or six pounds of honey-comb, or more, according
+to the size of the hive on which they are placed. They are made very
+thin and light: the cords of straw of which they are formed are very
+small, being not intended to keep in the heat, but merely to serve as a
+temporary magazine for the honey.
+
+The use of these additions will be easily understood by those who know
+that it takes as long a time to hatch a bee as to hatch a chicken, viz.
+three weeks.
+
+I have already said and repeated, that, in the swarming season, the
+strong and well provisioned hives are almost entirely filled with the
+brood-comb, and that scarcely any of the cells will be found empty. At
+that time also, honey becomes abundant; and, when fine days succeed
+each other, the working bees amass an astonishing quantity; but where
+is it to be stored? Moments are precious. Must they wait until the
+young bees have left the brood-cells, a week or perhaps a fortnight
+longer, by which time the early flowers will be cut down or withered,
+never more to display their honied cups to these little reapers? What
+is to be done in this dilemma? Must the young be sacrificed, and torn
+from the cells, in order to make room for the riches that nature offers
+on every hand? But this destruction of its posterity would ruin the
+colony. Mark, then, the resource of the industrious bees. They search
+in their neighbourhood for a place where they may deposit their honey
+until the young shall have left the comb in which they were hatched,
+and nourished, and undergone their metamorphoses; and, if they fail
+in their object, they crowd together op the front or sides of their
+habitation, forming prodigious clusters. It is not uncommon to see them
+build combs on the outside; many did so in the year 1791, the finest
+honey year I have seen since 1753. In the year 1791, I drew from one
+of my straw-hives that did not swarm, seventy-two pounds of beautiful
+honey-comb, merely by emptying the capes as they were filled. All
+years, however, are not like that, nor any thing approaching to it.
+There are middling seasons, when the bees find little more than merely
+what is requisite for their own supply. There are also bad seasons,
+when almost all the swarms perish, as well as numberless old hives,
+when they do not receive assistance: such, among others, were the years
+1812 and 1813. In the worst years there are days and even weeks of fine
+weather, when the honey is abundant; but it is of short continuance.
+The bees, however, at that time, will deposit their honey into the
+capes; and, towards the end of summer, or beginning of autumn, when
+little or no more is to be found, they remove it into the hive, filling
+the cells which the brood occupied at the time it was collected.
+
+If, during the summer, we deprive them of this treasure, which is only
+deposited in the capes for the time, we impoverish them, unless it is
+returned to them in twice the quantity. This was one cause of the ruin
+and depopulation of so many apiaries during these two fatal years, and
+my principal motive for taking up my pen is, to prevent, if possible,
+the recurrence of such disasters, by making known to the public my
+observations and discoveries.
+
+If the bees have room enough in the interior to dispose of their honey,
+it is needless to give them capes, for they will not build in them.
+These capes are commonly placed on the top of the hive, but it is
+matter of indifference whether they be on the right, on the left, or
+even underneath, provided there be an accessible way of communication
+between them. If we wish to attach them to the bottom of the hive, we
+establish a communication between the hive and the cape, by making
+a hole in the board on which the hive rests, so as to afford a free
+passage to the workers. I have capes of all kinds, above, below, and on
+the sides, which all succeed equally well. Those placed above have an
+advantage not to be despised, which is, that they prevent the combs
+from moulding during the winter, an evil to which hives are liable in
+those countries where they are taken into the house, to protect them
+from the frost and snow.
+
+All those that are well stocked, produce a moisture which, having no
+vent, collects in drops on the sides, and at the base of the hive,
+in which the bees are kept close prisoners until the return of fine
+weather. Many perish during their long captivity, and, oftener than
+once, I have found large icicles in strong hives. This never happens
+to those that have capes on the top: the moisture ascending evaporates
+through the opening, as by a chimney; and then one has the satisfaction
+of finding the combs healthy and free of mould in the spring. Care,
+however, must be had to cement it all round with clay or mortar, or
+some composition suited to exclude the wind, and to prevent the bees,
+sometimes very impatient, from getting out during the winter.
+
+With this precaution, very few will be found dead in the spring; and,
+in well-stocked hives, the laying of eggs begins about the end of
+January or beginning of February.
+
+Capes may be adapted to wooden hives, or to those of any other
+material, as well as to those of straw.
+
+Many people place capes over all their swarms the very day, or the
+day after, their emigration, and I approve of this plan for early and
+strong swarms.
+
+Capes neither prevent nor retard the issuing of swarms. I have
+frequently had hives that filled them, or were in the way of doing so,
+when the emigration took place, but on their numbers being diminished,
+stopped the work, and returned to it again as soon as they were
+reinforced, provided they did not give out a second swarm. Hives that
+have capes rarely give out second swarms, and this is no loss.
+
+The honey obtained by the capes is very pure, beautifully white, and
+very superior to what is obtained by the cutting out of combs.
+
+It sometimes happens, that the queen will ascend into the cape to
+deposit her eggs, when she has not room in the interior; therefore,
+should any brood-comb happen to be in it when it is intended to be
+removed, let it be replaced until such time as the young are completely
+hatched. The brood-comb is easily distinguished: the cells that
+contain it have their covers darker, more raised, and much thicker,
+than those that contain honey, the covers of which are white, flat, and
+very thin.
+
+There is no fixed rule for the time of removing the capes; it must
+altogether depend on the abundance of the honey. In six years, there
+are usually two bad, two good, and two middling seasons.
+
+In bad seasons there is nothing to take away; on the contrary, some
+must be given, or, properly speaking, be _lent_ to them, for the
+industrious bees always repay three, four, and five fold interest on
+the advances that are made them.
+
+In good years, the capes may be emptied three or four times; and unless
+this be done the bees will build their combs on the outside.
+
+In middling seasons, strong and well provisioned hives fill at least
+one cape, which may be taken without remorse, if they have not swarmed.
+I seldom or never take any from those that have swarmed, because
+they are thereby very much weakened. Good sense must here direct the
+proprietor.
+
+The only fixed rule which can be laid down is, never to take the capes
+that are not quite filled, unless the hive happens to be very large, as
+there is always abundance of honey when the labourers determine to go
+to work in the capes. But beware of taking half-filled capes from small
+or middling sized hives: restitution will repair but a small portion of
+the evil this will do them.
+
+
+
+
+                              CHAPTER XI.
+
+                         HOW TO EXPEL THE BEES
+                            FROM THE CAPES.
+
+
+It is in the heat of the day that the honey should be taken from the
+capes. A number of bees will always be found (commissioned no doubt) to
+guard the treasure.
+
+Various methods are resorted to, to expel them without smoking. Some
+carry the cape to a distance from the apiary, turn it upside down,
+rest it on the ground, and cover it with a napkin, leaving on one side
+a space of about a finger-length uncovered, to allow an exit to the
+bees, which, escaping by this opening, return to their habitation;
+and, to hasten their departure, some one knocks, from time to time, on
+the outside.
+
+Others take a cape of the same size, place it over the full one that
+is turned upside down, bind them round with a napkin, to intercept all
+passage to the bees, and force them to ascend into the empty cape by
+tapping gently on the full one. They soon go up into the empty cape,
+calling on each other, and flapping their wings; and, when they are
+all housed, replace them again on the parent hive whence they were
+withdrawn; and, if the season is favourable and the honey abundant,
+they soon set to work again.
+
+I prefer this last method, which is the speediest and easiest.
+
+
+
+
+                             CHAPTER XII.
+
+                            SIZE OF HIVES.
+
+
+Most amateurs have all their hives of an equal size. Some will have
+only very large ones; others very small ones; and others there
+are who prefer those of middling dimensions, into which they lodge
+indifferently, early and late, weak and strong, and even double swarms,
+that have re-united on leaving the parent hive; this is not very
+judicious. There should be a roomy lodging for first and for strong
+swarms, and even more so for double ones; and there ought to be small
+hives to receive feeble and tardy swarms, as well as for second and
+third ones at least, if proprietors do not reinforce them, by uniting
+them, according to my plan. Middling sized hives are convenient for
+ordinary swarms, which are neither the first nor the last ones.
+
+When two or even three swarms come off at the same time and mingle
+together, as sometimes happens in large apiaries, I take care not to
+separate them, but give them a hive big enough to contain them all.
+
+One strong population supports itself better, and is incomparably
+more profitable, than feeble colonies, that must be often in need of
+assistance. But there is a measure in every thing, and there should be
+no excess; should four or five swarms mingle, it is proper to separate
+them and lodge them in two hives of suitable dimensions; when I have
+not done so, I have always, except once, had cause to regret it. Before
+swarming time, it is as well to prepare hives of various sizes, just as
+one would have casks ready in a cellar before the vintage, to be ready
+for use. Here experience is in harmony with reason.
+
+
+
+
+                             CHAPTER XIII.
+
+                     MANNER OF UNITING NEW SWARMS.
+
+
+Feeble and tardy swarms can do no good excepting in very fine seasons.
+In bad seasons they greatly weaken the hives that produce them, without
+being able to shift for themselves. In ordinary years, they can only
+be preserved by much care, and at the expence of a great deal of
+honey; and most of them die, after all, without bringing any profit to
+their master. I have saved some that have turned out well, but only
+at the end of two or even three years; and I advise no one to try
+the experiment unless they have a great deal of honey to spare. It is
+better to unite them, and proceed after the following method:--
+
+When two small swarms come off the same day, I gather them separately,
+and leave them at the foot of the tree or hush on which they have
+alighted. Towards evening I spread a table-cloth on the ground, on
+which, by a smart and sudden movement, I shake all the bees out of one
+of the hives, and immediately take the other and place it gently over
+the bees that are heaped together on the cloth, and they instantly
+ascend into it, flapping their wings, and join those which, not having
+been disturbed, are quiet in their new abode. Early next morning I
+remove this newly united hive to the place it is destined to occupy.
+This doubled population works with double success, and in the most
+perfect harmony; and generally becomes a powerful colony, from which
+a great profit is derived. Two feeble swarms may be united after the
+same manner, although one of them may have come off some days later
+than the other, and the first may have constructed combs; taking care,
+however, not to make the first one enter the second, but the second
+the first, as the bees will ascend more readily to join those that have
+already begun to make honey and to hatch brood; and next day they will
+proceed together, with increased ardour, with the work which the first
+had already begun, and which will now advance more rapidly from the
+increase of the labourers. It is to be understood, that, after this
+union, the hive should be placed early next morning in the same place
+where the oldest of the swarms has already passed some days.
+
+I have recommended the uniting of swarms to be effected in the evening,
+when the bees are quietly housed for the night. If it were to be during
+the day, when the labourers are in full activity, they might fight and
+kill one another, to the total destruction of one of the swarms, which
+I have seen happen more than once. But in the evening they are grouped
+together; those that have been displaced alight upon, and take hold
+of, the others, and thus merely extend the cluster, now composed of
+two distinct masses, the one covering the other: their peace is never
+disturbed, and next day they work together in perfect harmony. Their
+fighting is always after the fashion of a duel, and not of a battle. In
+their wars, they do not range themselves in close battle lines, like
+men, breaking through and overturning each other; they fight bee to
+bee, excepting in cases of plunder or the killing of the drones, and
+then the combatant who first engages in the attack is speedily assisted
+by all those within reach uniting their forces to overthrow the
+enemy. But when the whole of a new swarm, suddenly displaced, ascends
+precipitately into a hive, peaceably occupied by another, the bees of
+each colony cannot recognize each other, and having no field to fight
+after their own fashion, they pass the night together, and, doubtless,
+acquiring the same smell, live happily together. But such is not the
+case when we wish to make a swarm enter an old hive, or to unite it
+to one whose hive is already full of honey-combs. Then another way of
+proceeding, and precautions of another kind, are necessary, concerning
+which I shall now give directions.
+
+
+
+
+                             CHAPTER XIV.
+
+                       METHODS OF UNITING TWO OR
+                        THREE SWARMS IN AUTUMN.
+
+
+When the swarms have not been able to lay up a sufficient provision
+during the fine weather, I weigh them at the end of the season, and,
+knowing the weight of each empty hive, I can tell exactly the quantity
+of honey they have in store.
+
+If they are three, four, five or six pounds too light, I preserve them,
+and feed them in the manner I am about to detail. When the swarms
+have only about one-third or one-half of the quantity of honey which
+would suffice to feed them, I might keep them alive by giving them
+as much more as they require. I have frequently done so; but I have
+already remarked, that this plan costs too much honey, and gives too
+much trouble; and therefore I generally join them into one. For this
+purpose, I leave the heaviest swarm untouched, and, in the morning of
+a fine day in September, or beginning of October, I commence by blowing
+a few whiffs of tobacco-smoke with my pipe in at the door of the hive
+of the lightest swarm, to disperse the sentinels; then, turning up
+the hive, and placing it on its top on the ground, I give it a little
+more smoke, to prevent the bees from becoming irritated, and to force
+them to retire within the combs. I proceed to cut out all the combs
+in succession, beginning with the smallest, sweeping the bees with a
+feather off each piece back into the hive; and then I place the combs,
+one after another, into a large dish beside me, keeping it, at the
+same time, carefully covered over with a napkin or small table-cloth,
+to prevent the bees returning to their combs, or the smell of the
+honey attracting others that may be flying about. The last comb is the
+most difficult to come at, being completely covered over with bees. I
+detach it, however, in the same way as the others, but with greater
+precaution, sweeping the bees off very gently with the feather until
+there is not one left on it. This operation I perform without gloves or
+any other protection, armed only with my pipe; and, for ten times that
+I treat them after this fashion, I seldom receive one sting, even when
+I act unassisted.
+
+The combs being all removed, the swarm remains as completely destitute
+of food as it was on the day of its emigration, and I replace it on its
+board in the same spot it occupied when full, and leave it till the
+evening, by which time the bees will be clustered together like a new
+swarm. During the whole of the day, which I shall suppose to be fine,
+they occupy themselves with great earnestness cleaning their house, and
+making such a noise in removing the little fragments of wax that have
+fallen on the board, that any one who did not know it had been emptied,
+would take it for the best and strongest of the hives. Before night,
+when they are all quiet, I throw a few whiffs of smoke in at the door
+of the hive which I mean my deprived swarm to enter, and which should
+be its next neighbour, on the right hand or the left; then, turning it
+up and resting it on the ground, I sprinkle it all over with honey,
+especially between the combs where I perceive the greatest number of
+bees: five or six table-spoonfuls generally suffice; at other times
+three or four times as many are required. If too little were given, the
+new comers might not be well received; there might be some fighting;
+and, by giving too much, we run the risk of drowning them. One should
+cease the sprinkling when the bees begin to climb up above the combs,
+and shelter themselves on the sides of the hive: this done, I replace
+the hive on its board, which should jut out about seven or eight
+inches, raising the hive up in front with two little bits of stick, so
+as to leave a division of an inch in front between it and the board,
+to give free access to the bees. I also spread a table-cloth on the
+ground before it, raising and fixing one end of it on the board, by
+means of the two bits of sticks that are placed as a temporary support
+to the hive. I then take the hive that was deprived of its combs in
+the morning, and, with one shake, throw the bees out of it upon the
+table-cloth, which they instantly begin to ascend; while, by the help
+of a long wooden spoon, I guide them to the door of the one that is
+placed for their reception. A few spoonfuls of the bees raised and laid
+down at the door of the hive, will set the example,--they enter at
+once, and the others follow quickly, flapping their wings and sipping
+with delight the drops of honey that come in their way, or officiously
+licking and cleaning those first inhabitants that have received the
+sprinkling, and with whom they mingle and live henceforth on good
+terms. One division of the new comers always clusters on the front of
+the hive, which they enter during the night without disturbance, much
+pleased to rejoin their companions. Next morning early it is necessary
+to take away the table-cloth and the bits of stick that were placed to
+raise up the hive and facilitate the entrance of the bees, and for some
+days the door should be left as wide as possible. The hive should also
+be moved a little to the right or left, that it may stand precisely in
+the centre of the place they both occupied before the union.
+
+I have frequently united three swarms in the same manner, and with the
+same success, taking care only to empty in the morning those on each
+side, and to make the bees enter the middle one in the evening, after
+it has been sprinkled with honey. In this case I do not remove the one
+that unites the three swarms. The reason of this we shall soon see.
+
+
+
+
+                              CHAPTER XV.
+
+                           MANNER OF UNITING
+                         OLD HIVES IN AUTUMN.
+
+
+When old hives are weakened by giving out too many swarms, and have not
+amassed a sufficient provision for the winter, many proprietors place
+them one above another, simply making an opening in the board, to serve
+as a communication between them, and closing the entrance to the upper
+one, with a little clay, for the purpose of making the bees go out and
+in through the lower one by the only opening that is left them. Several
+authors advise it; I have done it also, but shall do so no more, having
+found it attended by two serious inconveniences.
+
+The first is, that the two colonies do not always agree; indeed they
+fight sometimes to extremity, and thus the one is destroyed and the
+other is weakened. The reason is, that the bees of the upper hive,
+descending one by one, or only few at a time, are examined at leisure
+by those in the lower one, and, not having the same signal, are
+mistaken for robbers, and killed without mercy. This occurred to me the
+first time I attempted to unite them in this way; but it never happens
+in the tumultuous union of two swarms, when the one has been sprinkled
+and almost glued with honey, in consequence of which it is not in a fit
+state to commence an attack on those that are hastily displaced.
+
+A second inconvenience is, that, even supposing there should be no
+warfare, the habitation is much too large for those that are henceforth
+intended to be but one family. Whether they unite in the upper or the
+under hive, one of them must be left empty, into which thieves can
+find easier access; and although they should not be plundered, they
+would suffer from the cold of a severe winter. The population, indeed,
+is doubled, but so is the size of the lodging, and in that case there
+will be no swarms. Very large hives seldom swarm, it requires so much
+more time to fill them. My method has not these disadvantages, for two
+families living together in the same hive are warmer, and better able
+to resist any hostile attack.
+
+It is to avoid these two inconveniences that, in autumn, I empty an old
+hive which has not sufficient provision, and, in the evening of the
+same day, I introduce the bees into one of its neighbours on the right
+hand or on the left, proceeding in the same manner as with the swarms;
+with this single difference, that the sprinkling of honey should be
+more liberal to the old hive than to the swarm.
+
+If the hive of which I have doubled the population is well enough
+furnished with provision for the winter, I give it nothing. And if
+there is not enough, I give it before winter as much as it requires, in
+the manner hereafter to be detailed.
+
+
+
+
+                             CHAPTER XVI.
+
+                          NEIGHBOURING HIVES
+                           SHOULD BE UNITED.
+
+
+I HAVE already said, in Chapter III. that bees which have not swarmed
+voluntarily return to the place they have been accustomed to, even
+after having been shut up for months: the same thing would happen if
+you united swarms distant from each other. Next day, or the day after,
+you would have the mortification to see the bees return by hundreds to
+their old residence, flutter about for a length of time, and lose their
+lives, either by falling down from fatigue, or throwing themselves
+into the neighbouring hives, where they are put to death. Not having
+left their new dwelling with the same precaution that a swarm uses to
+reconnoitre the one it has chosen, or that has been given to it, and,
+supposing themselves at home, in spite of the disorder of the night
+before, they rush out on a rapid flight, and, returning from their
+excursion, go back to the place of their ancient domicil; and thus the
+purpose of fortifying your hives, and of preserving them, by uniting
+them, is defeated. I have frequently tried to unite distant hives, and
+always met with this result.
+
+There is only one remedy for this that I know of, but it is an
+imperfect one, and gives a great deal of trouble. It is, to put in some
+combs of wax into the hive that has been emptied, and replace it in
+its old situation. The bees return to it in great numbers the following
+day, and some days after; at length, after a great deal of bustle,
+they settle towards evening on the combs, and, before night, when they
+are quite tranquil, I take the combs one after another, and, with a
+feather, sweep off the bees, so as to make them fall upon the board of
+the one that contains their companions, and which they now enter with
+evident marks of joy. This operation may require to be repeated for
+seven or eight days, with this difference, that every succeeding day
+fewer will return. Thus the evil may be repaired, though incompletely
+and with infinite trouble.
+
+It is to avoid the perplexity which displacing them occasions to these
+precious insects, and also the loss that results to myself, that I move
+the united hive a little to one side, so that it may occupy the space
+that was before between them. As displacing them only a few inches
+does not confuse them, for the same reason, when I join three hives,
+as I often do, I never displace the middle one, but remove those I
+have emptied on the right hand and on the left, which is sufficient
+to prevent mistakes, and the bees, finding no hive on either side,
+enter the middle one without hesitation. It is a very essential point,
+however, to join only neighbouring hives, as being less troublesome and
+more successful.
+
+It would be a good plan to mingle in the apiary strong and weak hives
+alternately, and to place small and late swarms near each other, in
+order to unite two and two, or three and three, in autumn, if they have
+not enough of provision laid up for their winter subsistence.
+
+When a deprived swarm happens not to be near another in the same state,
+there is nothing to hinder it being united to any old well provisioned
+hive that may be near it, as it will thrive all the better for such
+an addition to its population. I have done so oftener than once, and
+always with success.
+
+
+
+
+                             CHAPTER XVII.
+
+                      HOW TO FEED UNITED SWARMS.
+
+
+There is always honey in hives that are emptied to be united. If there
+are six pounds more or less, I lay aside the combs that are full, after
+having separated those that are but half filled, and of which the cells
+are not hermetically sealed by the little thin chip of transparent
+white wax which invariably covers those cells that are full of honey.
+Twelve or fourteen days after the union, when the cold forces the bees
+to congregate themselves in their hives, I give the hive that contains
+the double population a few puffs of tobacco-smoke; then, turning it
+upside down, I cut away the empty combs, that are always below and on
+the sides of the hive. While performing this operation, it is necessary
+to give them an occasional whiff of smoke to keep them quiet. I only
+take out the one-half of those that are half filled with honey, and
+cease as soon as I find the comb quite full. When there is room enough
+to contain the fragments of honey-comb that I mean to put in, I place
+them as nicely as I can, without breaking or bruising them, filling
+the empty space, without leaving any division but the little intervals
+between the combs, to allow a free passage to the bees. This done, I
+lay a board over it, and, with the aid of another person, we return it
+gently to its former position, and, shaking it as little as possible,
+replace it in its proper situation.
+
+This operation may be done in the morning or in the evening, but never
+in the heat of the day. I prefer the evening, in order not to attract
+thieves.
+
+The diligent bees soon discover the change that has taken place; and
+finding bits of honey-comb heaped up in all directions, they set about
+giving them solidity, soldering them together before the following
+night, in such a manner, that all these fragments soon form one mass,
+intersected only by little alleys of communication. Thus it remains
+during the whole of the winter; and, in the month of March or April,
+according to the temperature of the weather, I take out this irregular
+mass, which I find entirely emptied; the bees having lived upon it, and
+spared the provisions which they had stored in the middle of the hive.
+
+I have supposed that the hive whose population I have doubled has also
+received the addition of six pounds of honey-comb, given in the way I
+have just described. These constitute, as it were, the dowry of the
+new comers, who are themselves at the whole expence, as it was they
+who constructed and filled the combs of which I took possession. The
+doubled hive having then sufficient food to subsist on till spring,
+I trouble it no more, certain, from past experience, that I shall
+then find it in good condition. Every one of these swarms would have
+perished from want, had they lived separately; and, by joining, I give
+them the means of subsistence, without costing myself any thing. If the
+supposed six pounds do not suffice to support them, I lend them more; I
+say _lend_, for the bees always return with interest whatever advances
+are made to them.
+
+I proceed exactly after the same manner when I unite two old hives
+that have not been able to lay up a sufficient provision, remembering
+always, as already mentioned, that old dark-coloured combs, being
+much heavier than white ones, contain also less honey, and that,
+consequently, it requires a greater number of pounds to make up a pot
+of this nectar. The difference is so great, that six pounds of white
+comb will produce more than a pot of honey, whereas the same quantity
+can scarcely be extracted from eight, or even ten, pounds of black comb.
+
+
+
+
+                            CHAPTER XVIII.
+
+                      QUANTITY OF FOOD REQUISITE
+                           FOR UNITED HIVES.
+
+
+I have said, in Chapter IX. that each hive must have three pots, or
+fifteen pounds of honey, to sustain it during the winter, and until
+the bees can find food for themselves again in the spring. For this
+reason, I have advised the empty hives to be weighed, before the swarm
+is admitted into it, and again in the autumn, when the honey season
+is over, in order that we may be assured that there is food enough to
+maintain them during the winter.
+
+In doubling the population, I naturally expected that we must also
+double the quantity of food, for I had always seen that two or
+three families, living together, used more meat than each would
+have done singly, however rigid their economy. The more mouths the
+more meat, thought I; and, in consequence, I augmented greatly the
+amount of provision the first time I doubled a hive; but, to my great
+astonishment, when I weighed it again in the spring, I found that the
+united swarm had not consumed more than each would have done singly. I
+could not believe my eyes, but thought there must be some mistake, nor
+could I be convinced, until I had repeated the experiment a hundred
+times over, and had always the same result.
+
+I have made a point, in every instance, to mention the reasons of my
+advice and proceedings; here, however, I humbly confess my inability
+to do so, nor can I conceive how an army of thirty thousand troops
+could be served with the same rations allowed for an army of only ten
+thousand, supposing the soldiers of both to have an equal appetite, and
+to have each wherewith to satisfy it. But the fact exists in regard to
+the bees; any one may have it in his power to convince himself of it;
+the cause is to me unknown, and must be left to wiser heads than mine
+to explain. Does the increase of heat supply, to a certain extent, the
+place of nourishment? Does the greater and more uniform heat, in a
+well-stocked hive, make the food more nourishing?
+
+These are questions which I propose to naturalists, but which I cannot
+answer.
+
+After this discovery, as important as it seems to be inexplicable, I
+varied my experiments, not only to convince myself of the fact, but,
+if possible, to arrive at more extended results. I joined three hives
+in the autumn, by introducing into the middle one, the bees of two
+neighbouring hives; and I found, on weighing it in the spring, that its
+inhabitants had scarcely used one pound more than those of hives that
+had not been united. I went farther: Having a large well-stocked and
+amply provided hive, I added to it, in the autumn, without displacing
+it, the swarms of four neighbouring hives, two on the right hand and
+two on the left, that were so scarce of provisions that the quantity
+of honey that would have been necessary to have kept them alive, would
+have far exceeded their value, and that all the four would, to a
+certainty? have perished. This enormous population produced a heat so
+great, that, during the whole of a very severe winter, the bees kept
+up a buzzing noise equal to that of a strong and active hive in the
+evening of a fine day in spring. The steam expelled by the vibration of
+their wings, collected in drops at the door, and formed icicles round
+the entrance of the hive during severe frost. The hive was left out all
+the winter, and would infallibly have perished had I shut it up; and
+what was my astonishment, on weighing it in the spring, to find that,
+notwithstanding that it contained five pounds, the total diminution
+did not exceed three pounds more than took place in my ordinary hives.
+It gave out excellent swarms, long before any of the others, and
+recompensed me well for my pains. I have not repeated the experiment to
+the same extent, but have limited myself to the union of two, or at
+most three deprived hives, and have been very well paid.
+
+What, in these circumstances, becomes of the supernumerary queens,
+since their hatred to one another is so great that there can be but
+one in each colony? I give myself no trouble to answer the question,
+more curious than useful; the aim of my experiments being only to give
+practical rules.
+
+I have often been astonished that so important a discovery should not
+have been made sooner by some of the superior minds that have taken
+an interest in this branch of rural economy; and that, in the course
+of their researches, not one of them should have thought of uniting
+two or three weak swarms, before winter, to compare them with single
+swarms, in order to ascertain how much honey was necessary, according
+to both plans, till the end of the winter season. Doubtless they had
+believed, as I formerly did, that the more numerous the family the
+more provisions would they require, and that little would thus be
+gained by uniting them. I should have regretted quitting the world
+before publishing this discovery; and it had nearly perished with me;
+for, continued and indispensable occupations, as well as a dangerous
+illness, prevented me setting about giving it to the public, till now
+that I am far advanced in life.
+
+
+
+                             CHAPTER XIX.
+
+                        BENEFITS RESULTING FROM
+                       THE UNION OF WEAK HIVES.
+
+
+The advantages of uniting weak hives are very considerable. I need only
+mention three. 1. The bees are saved; 2. They are saved without trouble
+or expence; 3. All the hives are strong.
+
+The first of these advantages is the preservation of the bees. In
+every country, swarms are destroyed that have not been able to gather
+a sufficient store of provision. Those found to be too light are
+unmercifully condemned to be suffocated; and what little honey they
+have collected, is considered as pure gain, because the bees would
+have perished from want, after having consumed the scanty fruits of
+their own industry; and, by putting them to death a little sooner,
+something at least may be made of them. Thus people reason, and thus
+the murderous practice is so generally adopted. The same plan is
+followed in regard to old hives that are exhausted by giving out too
+many swarms; and in short, to all those that have not abundance of
+provision laid up; and the very heavy ones, on the other hand, have
+their bees slain to get possession of the honey. What a frightful
+proscription is this! What blanks occur in the apiaries, especially in
+bad years, such as 1812 and 1813! And how injurious to our own interest
+is this indiscriminate destruction of weak and healthy, of rich and
+poor! There is no mercy shewn but to them that have just enough to
+keep them alive; and not even one of them would be spared, were they
+not indispensably necessary to repeople the apiaries by new swarms.
+According to my method, all these evils are prevented. All the hives
+may be robbed of their treasures; but the lives of the bees are spared.
+
+A second and very considerable advantage is the saving of honey. I
+have already said, that there must be at least three pots or fifteen
+pounds of honey to maintain one hive, whether it be strong or weak. If
+three swarms, then, have only that quantity among them, each has but
+a third of the provision that it requires; and, to keep them alive,
+you must sacrifice six pots of honey, that is, two-thirds of the whole
+provision, or two pots for each. It is to avoid this great expence,
+which would equal if not exceed the value of the swarms, that most
+people have recourse to the prompt measure of suffocation. But, by
+uniting the swarms, all the working bees may be saved, without any
+expence, and without any waste of honey but the small quantity employed
+to sprinkle the combs of the hive, into which you make them enter. The
+honey-combs found in those which you empty, are sufficient to feed
+the three united swarms, by giving it to them after the manner I have
+directed at page 33. The wax is all your own. It costs only a little
+care and a little trouble, which will be amply repaid by the benefit
+insured. And will it be accounted a slight pleasure to witness the
+prosperity of the bees we have saved?
+
+A third advantage, which appears to me one of great value, is, that
+all the hives which we possess are strong hives (meaning by the term
+strong, such hives as are well stocked with bees). Weak hives decline
+and yield nothing; have frequent need of assistance; are exposed to
+pillage; give out no swarms; and produce scarcely heat sufficient to
+hatch a little brood in a corner of their dwelling, which never comes
+to good. How often have I seen the brood come to an untimely end. In
+vain the bees will crowd together, to procure the necessary degree of
+heat, when there is much empty space in the hive. A number of weak
+hives may do well enough to make a shew in the apiary, but will be no
+profit to the proprietor. It costs a good deal to feed them, if one
+would keep them alive; and there is very little to be gained by putting
+them to death. Not so with the united hives; they were all vigorous; in
+condition to defy the rigour of the seasons; to repel their enemies;
+and to gather a great quantity of honey. The population augments
+rapidly, and they give out early swarms; or if some of them do not
+produce swarms, they furnish so much the more wax and honey, and will
+collect more in one day than weak hives will do in a whole week; in
+short, there is no comparison between them.
+
+
+
+
+                              CHAPTER XX.
+
+                          TIME AND MANNER OF
+                          RENEWING OLD HIVES.
+
+
+It is a common prejudice, that hives cannot be profitably preserved
+beyond three, four, or six years at most, and that, beyond that
+term, they become weak, give out no more swarms, and finish by being
+pillaged, or becoming the prey of moths, which, if suffered to
+establish themselves, soon make horrible devastation among them. A
+great many experiments, however, have fully convinced me that such
+is not the case, and that the duration of the hives may be greatly
+prolonged by renewing them.
+
+I have several from twelve to twenty years old, that are as
+prosperous, and swarm as well, as the young ones. I have even one of
+June 1789, consequently now in its twenty-fifth year, and it gave off
+an excellent swarm on the 4th of June 1811, the same in 1813, then aged
+twenty-four years, and again another this year 1814. Besides these
+numerous swarms, I have taken from it 142 pounds of honey-comb, either
+by pruning, or by means of capes. I have never united it with other
+bees, because its neighbours had always enough to subsist on, and I
+have renewed it only once.
+
+The decay of old hives proceeds from three causes. The first is the
+candying of the old honey, of which the bees have sometimes an ample
+store, but which, from inability to eat it, becomes in that state very
+troublesome, in place of being of use to them. When forced by hunger to
+have recourse to it, they draw it out of the cells, and throw it down
+on the board that serves as a floor to their habitation, in order to
+profit by any of the sweet drops that happen to be in a liquid state.
+In nibbling and scraping to empty the cells, it happens that many
+of them become so daubed, that, being unable to get away from it,
+they fall down, and soon perish, if the weather is cold. Thus the old
+honey is lost as much to the proprietors as to the labourers that have
+gathered it. Supposing, again, that they do not touch it, the place
+it occupies is lost either for the purpose of depositing new honey or
+brood, and hence the weak state the hives fall into, if not renewed.
+
+A second cause of their decay is owing to the great quantity of the
+pollen or dust of flowers that the bees gather and carry home on their
+legs, especially in the spring and autumn, when large portions of the
+combs will be found filled with it on both sides. It is an essential
+ingredient in the pap with which they nourish the young brood, but good
+for nothing else. Different authors have named it _bee-bread_; but
+the bees never eat it: indeed it is a well attested fact, that they
+will die of hunger on the combs that are filled with it. As it is very
+heavy, it sometimes cheats those people who estimate the provision of a
+hive by its weight. This is one of the reasons why I have recommended,
+in Chap. IX. to allow eight or ten pounds more to old hives than to new
+swarms.
+
+The bee-bread being generally, when present, deposited in the centre
+of the combs, where the brood thrives best, of course the place which
+it takes up is so much lost. It is liable to mould in winter, and the
+working bees have a great deal of trouble in tearing it from the cells,
+and putting it out of their way. It spoils the honey, takes away its
+whiteness, and gives it an unpleasant taste; it destroys the wax even
+more, and forms that brown scum under the cakes, when great care is
+not taken to separate it. Nevertheless, bees lay up useless hoards of
+it, which they go on augmenting every year: and this is the only point
+on which they can be accused of a want of that prudence and foresight
+so admirable in every other respect. By renovating the hives, one
+frees them of this superfluous substance, and the space it occupied is
+directly replaced by beautiful white combs, and the whole hive becomes
+as good as new.
+
+A third cause of the weakness of an old hive is the blackness of the
+combs in the centre and front of the hive. These old combs are mostly
+pierced with holes large enough to hold two or three fingers, or even
+a whole hand. They are not openings which the bees have cut out for
+themselves, to pass from one comb to another; but are the result of
+some violent measure to which they have had recourse, for the purpose
+of defending themselves from the moths, one of which, establishing
+itself in a comb, will soon destroy the whole hive, if they do not
+speedily rid themselves of it. The young moth is not so easily got the
+better of, being cased in a sort of strong silk, by means of which it
+forms galleries, and slides from side to side of the hive; and the
+bees are unable either to get within reach of the enemy, or to rend
+this silken covering that defends it; but, perceiving their danger,
+they join together in forming a plan of attack for their deliverance,
+by gnawing the comb in which the moth is established, as far as the
+galleries extend; throw down the piece, and finish by reducing it to
+crumbs, and never rest until they kill the foe. They require to be in
+great force for this operation. Weak hives need not attempt it; indeed
+they generally finish by becoming the prey of the moths.
+
+It is singular that bees, which know so well how to build combs, should
+not be able to repair them. I have found as many as six of these holes
+in one comb. Are they left standing thus, like so many monuments of
+victories gained over a formidable enemy,--the most formidable and the
+most difficult to conquer? All useless combs should be taken away, as
+they tend to weaken the hive, and they will soon be replaced by entire
+and healthy ones.
+
+
+
+
+                             CHAPTER XXI.
+
+                    THE SIGNS BY WHICH TO ASCERTAIN
+                WHETHER A HIVE REQUIRES TO BE RENEWED.
+
+
+As long as a hive produces honey and swarms, it is needless to touch
+it; but, when it ceases to be productive,--when, during several months,
+the bees form clusters, without swarming, I then think it necessary to
+renew, or, properly speaking, to prune it; the directions for which
+will be best understood by my simply relating how I managed my two
+first experiments.
+
+The first time I performed this operation was on a pretty large-sized
+straw-hive, which, for ten years, was very productive. One year alone,
+it yielded me seventy-two pounds of very fine honey-comb in the capes,
+mentioned in Chapter X. The eleventh and twelfth years it made me no
+return, though it was heavy and very populous. About the beginning of
+the thirteenth year, I gave it a little tobacco-smoke, with my pipe,
+and proceeded to prune the combs away with my knife, until I came to
+brood. There remained only four in front, in which the bees always
+begin to lay their eggs in the spring. They were very black, and
+contained little honey, but I saved them, that the population might
+not be destroyed. The honey that I took out was hard and candied,
+but I melted it with a little wine; and, filling some bits of empty
+combs with it, gave them a part of it two or three times a-week, being
+careful to place them in the hive in the evening, and take them out
+again in the morning, for fear of attracting thieves.
+
+I thus fed the bees with their own store; the combs were always empty
+in the morning. By the month of April, they began to build in the
+space I had left. By the middle of May, they had completely filled it
+with beautiful white combs, like those of a new swarm; and the same
+year, on the 9th of June, it gave me, contrary to my expectation, an
+excellent swarm. Next year, by the end of March, I took away the four
+black combs that I had left, and in which was no brood. The brood was
+by this time deposited in the middle combs; thus my hive was completely
+renewed.
+
+Encouraged by this success, I performed the same operation next spring,
+on a common sized hive, which, during eleven years, had annually
+yielded me honey or swarms: one year I took from it forty pounds
+of beautiful honey-comb; but, for two years, it had been languid
+and unproductive. On the 4th of March, I pruned away all the combs,
+excepting two in front, containing brood; and I nourished the bees, by
+giving them a little of the liquid honey every evening, upon a bit of
+comb, until they could get out to gather food for themselves.
+
+In the month of May, all the combs that I had cut out were replaced
+with the most beautiful new ones. This hive, which was weaker than the
+other, gave out no swarm the same year, but it filled a cape with some
+pounds of honey-comb, which I took possession of.
+
+The following year, on the 4th of March, I cut away the two black combs
+that were left in front, and thus this hive was also entirely renewed;
+after which it produced me four swarms, and nearly forty pounds of
+honey-combs in the capes: this I consider a clear profit, there not
+being the smallest doubt that the hive would have perished, had it not
+been renewed.
+
+These two examples may suffice to shew the advantage to be derived from
+the renewing of old hives. What would mine have yielded had I resorted
+to the common method of suffocating the bees? A little indifferent
+honey; for that of candied combs is very inferior to that of new ones.
+As to the wax, I should have had no more, since I took away all that
+the hives contained, and the exchange gave me good strong colonies,
+which are more valuable than the best swarms.
+
+The advantage of my plan will be better understood, if we shall
+suppose two neighbouring apiaries, equally good, and in all respects
+equally well taken care of. Suppose one of them shall be managed in
+the ordinary way, and that, every year, the owners shall suffocate the
+heaviest swarms for the sake of the honey, and that they also destroy
+the old hives that have too little provision for the winter. Let the
+other apiary be managed according to the principles I have detailed,
+that not one bee shall be put to death, and that, in the autumn, the
+swarms that are too light, as well as the old hives that are scarce of
+food, shall be united, and that the latter shall be renewed when they
+cease to prosper.
+
+At the end of fifteen years, compare these two apiaries, and see
+which has the strongest hives, the greatest number, and in the best
+condition. It would be surprising indeed, if they preserved their
+original equality.
+
+Will these operations be objected to, on account of the difficulties
+attending the performance of them? Will it be said that every one has
+not the courage to run the risk of being stung, or the dexterity to set
+about handling the bees?
+
+In all countries there are people to be found who are accustomed to
+gather swarms, and to put joinings on hives. Let them be employed, and
+directed in every part of the work that the proprietors do not like
+to perform themselves. This practice is common in Lusatia, a country
+celebrated in the history of bees, by the very useful discoveries of
+M. Shirach, and where they make annually, according to his principles,
+a great quantity of artificial swarms. The country people, of whom the
+greater number understand nothing of these complex operations, which
+take more time, and are much more difficult than the union of swarms,
+or the renewing of hives, employ people who are bred to the business,
+and who, in the proper season, go from village to village, making
+swarms, and are paid for their trouble.
+
+From the result of my experiments, it is evident that the duration
+of hives is indefinite; and here a multitude of questions present
+themselves. How long does a queen live? Would she live twenty years and
+more? Is the term of her existence prolonged beyond that of the working
+bees? I cannot answer; but I have reason to think that bees live only
+one year, and that those which have lived over the winter, and have
+assisted at the work during the spring and summer, and which do not
+perish by accident, die of age in the month of August. By that time,
+they seem to become paralytic; and, unable to fly, they fall down in
+the neighbourhood of the hives, and creep about until they expire from
+fatigue and exhaustion.
+
+One then sees many of them, with their wings fringed, which is a sign
+of decrepitude, similar to the wrinkles of an old person; while the
+young-bees may be discerned by their grey ashy colour, which becomes
+darker, approaching to black, as they get older. I do not believe that
+the queen (on whose existence depends that of the colony), lives ten,
+fifteen, or twenty times longer than the working bees. But they have
+the means of filling her place when she comes to die. M. Shirach has
+completely demonstrated, by very varied and multiplied experiments,
+that they require only for that purpose a common bee-worm that has been
+hatched within two or three days, and that this worm becomes a queen,
+and a fruitful queen, in less than a fortnight, by means of a thicker,
+more roomy, and differently formed cell, which they construct expressly
+for her, and by a different sort of pap with which she is nourished. I
+have repeated the experiment oftener than once.
+
+Forty days after I had put a bit of brood-comb into a wired box, after
+the manner of M. Shirach, I saw young bees come out; and the young
+queen I had made be hatched, was the mother of my artificial swarm. It
+is therefore probable that a hive, from twenty to twenty-five years
+old, has not always the same queen, but that the queen has, from time
+to time, been replaced. Moreover, every time that a swarm comes off, it
+is the old queen that emigrates with it.
+
+The sudden decline of a hive that has lost its queen, and which never
+long survives the loss, when it has not young brood to create another,
+proves that bees live but one year, as the depopulation would be less
+rapid if the lives of the individuals extended beyond that term.
+
+
+
+
+                             CHAPTER XXII.
+
+                    ARTIFICIAL SWARMS AND DIFFERENT
+                       METHODS OF FORMING THEM.
+
+
+One often sees well-stocked hives that do not swarm, and which, during
+the whole of the summer, form large clusters, until the cold of the
+autumnal evenings forces the idlers to re-enter their hives; and it
+were vain to disturb them, to smoke them, or torment them, in the hope
+of forcing them to swarm. Some people have thought they might attain
+their object by dividing them in two; but they did not succeed. There
+are, however, two ways of obtaining artificial swarms; and the one
+which the celebrated Shirach practised successfully in Alsatia, and
+which was followed with the same results in the north of Germany,
+requires a long course of difficult and complex operations. I shall,
+however, proceed to give my readers some idea of it.
+
+In spring, a little box is prepared, about six inches square, with an
+opening in the top, about three inches square, and another the same
+size in front. Each of these openings is covered with a wire-grating,
+close enough to prevent any bee getting through. This box rests on
+a stand provided with twelve wooden pins, four or five inches long,
+placed perpendicularly, in two rows, at the distance of three inches
+from each other. These pins should be so far separate as that five
+pieces of honey-comb, each about as big as a person's hand, may be
+placed between them.
+
+Between the farthest of the pins, on the right and left hand, are put
+three bits of empty combs, the same height as the pins: a piece of very
+fine honey-comb, not candied, occupies the fourth place; and the fifth,
+which is the centre, remains empty. It is to be understood that the
+pins supporting the combs on both sides, keep them in a perpendicular
+situation, and prevent them touching each other, and that the spaces
+left between the combs is much about the same as those in the hive to
+allow free passage to the bees. Neither the honey-comb nor the empty
+combs ought to touch the board, in case of the moths taking possession
+of them; they are rather made to rest on two little bits of wood,
+raised a little above the board, and crossed by the pins.
+
+Above the combs and the pins, a large piece of comb is placed
+horizontally, and covering the whole, to keep in the heat while the
+hatching goes on.
+
+After all these preliminaries, a fine day is chosen, about the end of
+April or beginning of May, according to the climate, and according as
+the season is more or less advanced; and, in the heat of the day, a
+little before noon, a strong hive, while in full activity, is lifted
+up, its top rested on the ground, and the bees driven off the combs
+with a little tobacco smoke, in order that the proper pieces may be
+seen and chosen.
+
+A piece of comb, about the size of a hand, is then cut out, containing
+all the three kinds of brood, that is, eggs, nymphs, but principally
+the little maggots, just two or three days out of the shell. The hive
+is then replaced on its stand, and the little bit of comb that was
+taken out of it is put into the box, to occupy the empty space that was
+left in the centre, between the pins, and about a thousand or fifteen
+hundred bees, taken from a cluster in some other manner, are then
+introduced, and the box closed, to prevent them getting out.
+
+Their extreme agitation, approaching to despair, produces a heat so
+great that they would be suffocated, but for the wire-gratings above
+and in front. Towards night, when they become tranquil, nothing more
+is heard but a soft murmuring, and they begin to construct one of
+the great cells, that has its opening underneath, and in which they
+nurse and rear queens. Before the cell is completed, they carry into
+it a little maggot, out of the egg within two days; which being then
+suitably nourished, becomes a perfect queen in less than a fortnight.
+
+For three days the box should be kept shut, and the light carefully
+excluded, for it would only serve to increase the agitation of the
+prisoners; and the upper wire-grating, being of no farther use, may
+be plastered over with a little clay. The fourth day the box may be
+carried to the apiary, and the bees set at liberty, by opening a part
+of the wire-grating in front.
+
+Having now got a new establishment, with the certainty of soon having a
+queen, they think no more of returning to the hives whence they were
+taken, but come and go, cleaning their little dwelling, and working
+like a weak swarm.
+
+While they are thus occupied, a little cage should be prepared, in
+which to shut up the queen when her metamorphoses shall be completed.
+
+This cage is of a semicircular form, and in size resembling the half of
+a large orange; it is made of wood, scooped out, and has a wire-grating
+on the front of it, so fine that no bee can get out or in: a hole is
+made in the lower part of it, large enough to permit a bee to pass
+through, and a wooden pin, from six to eight inches long, of the size
+of the hole, is prepared to shut it up with.
+
+These preparations being completed, the box is opened fourteen or
+fifteen days after the bees have been put in, but it must be one of
+these fine spring days when the bees are busy at work: should the
+weather be cold or wet, the opening of the box must be delayed. The
+combs are then all taken out, and the queen will be easily discovered.
+She is much longer in the body, and altogether larger, than the other
+bees, as may be observed from the following figures, where Fig. 1.
+represents the Queen; Fig. 2. the Drone; and Fig. 3. the Working Bee
+[4].
+
+[Footnote 4: To those not much acquainted with bees, the following
+particulars may be useful.]
+
+[Illustration: Fig. 1 Fig. 2 Fig. 3]
+
+  Fig. 1. The _Queen Bee_: the head is of a triangular shape; her
+    wings very short, not extending beyond the one-half of her body,
+    which is longer, and more pointed, than that of the working bees.
+    Her legs and corselet are copper coloured; thorax grey, and
+    abdomen brown. There is only one queen to a hive; while there are
+    from 10,000 to 15,000 workers, and perhaps 1000 or 1200 drones.
+
+  Fig. 2. The _Drone_, or Male Bee; the head is round, its large body
+    is almost entirely covered by its wings. It has no sting. The
+    drones appear only at the season of swarming, and are all put to
+    death by the workers in the autumn.
+
+  Fig. 3. The _Working Bee_. Head somewhat triangular; the smallest
+    and most numerous of the hive, which every one knows as the
+    _honey-bee_, and which fabricates the combs, makes the honey, and
+    feeds the young.
+
+The queen must be seized by the wings and introduced, head
+foremost, through the hole into the cage, along with a dozen bees to
+bear her company, and then the hole through which they have passed is
+stopped up with the wooden pin. This being completed, an empty hive
+must be prepared, similar, in every respect, to the one out of which
+artificially the swarm is to be taken. A hole, parallel to that in the
+cage, is pierced in the bench on which it is to stand, and the end
+of the wooden pin fixed into it, so that the cage may be suspended,
+perpendicularly, about two-thirds the height of the hive. Between
+eleven and twelve of the same day, while the bees are mostly on the
+wing, a strong person takes one of the old hives, that is not likely to
+swarm, lifts it steadily, and rests it for a few seconds on a table, at
+hand for the purpose, while its place is instantly filled by the one
+containing the young queen and her cage. Any bees that may be grouped
+about the board are lifted up with a wooden spoon, and laid down at the
+door of the new hive; these ascend immediately; and all the working
+bees, returning in crowds from the fields, enter without hesitation;
+when, finding neither combs, nor honey, nor any provision whatever,
+they go out and return several times, and fly round and round it; while
+the inhabitants of the old hive, having no suspicion of their place
+being changed, leave it without precaution, return to the situation of
+their ancient dwelling, and increase the swarm that is forming.
+
+Wearied at length of their researches, and finding in this new
+establishment a great number of their companions, with an imprisoned
+queen, they unite themselves together at the top of the hive, begin,
+even the same evening, to build combs; and thus is obtained an
+excellent artificial swarm. Next day, and some days after, many bees
+continue to join them from the old hive, which delays not to repeople
+itself from the brood-comb with which it is filled, as it is not more
+weakened than if it had swarmed naturally. The second day after this
+operation the new hive must be lifted up, the cage taken out, and the
+queen set at liberty, which is easily done, by drawing out two or three
+of the wires that form the grating. It would not be possible to make
+her descend by the hole through which she entered, and, by delaying
+too long to take her out, she would be completely surrounded by combs,
+that must be broken before she could be released. The precaution of
+keeping the queen in prison for two days is indispensable; for without
+this precaution she would be put to death as a stranger, or she might
+escape from the hive during the first tumult, which would cause the
+total failure of the swarm. But after being shut up in it for a little
+time, she is looked upon as the hope of the new colony, and sure of a
+favourable reception.
+
+To succeed in this operation, there must be, at least, six inches
+between each hive: should they touch each other, many of the working
+bees would infallibly lose their lives, by throwing themselves into
+some of the neighbouring ones.
+
+Such is the result of these tedious and difficult operations to obtain
+artificial swarms by the method of M. Shirach, at this time generally
+pursued in Germany. There is another, easier and less tedious, said to
+be in usage in the Archipelago, in Ancient Greece, and several other
+countries, which I have followed with great success.
+
+Choose a hive of wood or straw, exactly the same in form and size of
+the one from which you mean to take the swarm. On a fine day in May,
+or, in mountainous countries, which are later, about the beginning of
+June, throw a few whiffs of tobacco-smoke into a well-stocked hive,
+turn it up, and, with a little more smoke, disperse the bees that are
+upon the combs; then cut out a bit of comb, about the size of the
+palm of a hand, taking care that there be the three kinds of brood,
+viz. eggs, maggots, and nymphs, already enclosed in the cells that
+serve them for cradles, but especially those maggots that have been
+hatched within two days; after returning this hive to its place, then
+proceed to fix the bit of comb with some wooden pins, in the top of
+the newly prepared one, and support it underneath with a thin chip of
+wood. Between eleven and twelve in the forenoon, lift a very populous
+hive (not the one out of which the brood-comb was taken), off its own
+board to another that must be ready to receive it, and put the empty
+one in the place it occupied. All the bees, returning from the fields,
+enter the one that has been substituted, seem at first to be greatly
+agitated, but, by degrees, gather round the brood-comb, and begin
+before night to construct a royal cell, to which they transport a
+maggot of two days old, and where it undergoes its metamorphosis, and
+comes out a queen. By this method, I have procured excellent swarms
+from hives that would not have swarmed naturally; and, the following
+spring, renewed the old hives, after the manner indicated in Chapter
+XXI, thus preserving my hives in good condition.
+
+
+
+
+                            CHAPTER XXIII.
+
+                     ADVANTAGES OF ISOLATED HIVES.
+
+
+A swarm, taking flight, rushes out of the hive, and seems bent
+on fixing itself in some distant quarter, as if it feared the
+neighbourhood of other swarms--as if it felt that its most formidable
+enemies were those of its own kind.
+
+Swarms will unite, however, when they take flight at the same time,
+because the bees of one hive cannot be distinguished from those of
+another when on the wing, and crossing each other in every direction;
+and as soon as one group begins to knot upon a branch, the bees of
+the other crowd round, supposing them to be their companions. Their
+instinct, however, rather leads them to isolate themselves, as they do
+in great forests; but their proprietors resist this instinct, assemble
+a great many hives together in the same apiary, to shelter them from
+the weather, as well as to protect them from thieves, and to watch over
+them at the time of their emigration.
+
+Such are, doubtless, great advantages, but not sufficient to
+counterbalance those that would result from keeping them separate. The
+mixing and uniting together of several swarms, that often take place
+in large apiaries, and which is not always an advantage, would thereby
+be prevented. There would be greater facility in forming artificial
+swarms, and one hive would not be disturbed in operating on another.
+The great expence of bee-houses would thus be spared; these are much
+more costly than stands for isolated hives, for which there is nothing
+more necessary than a board, supported by a pile of wood, sunk into
+the ground, with a thatch of straw, which any one can spread over the
+tops of the hives, to protect them from the rain and the heat of the
+sun.
+
+
+
+
+                             CHAPTER XXIV.
+
+                         ENEMIES OF BEES, AND
+                       MEANS OF OVERCOMING THEM.
+
+
+All amateurs that have written on the subject of bees, have spoken of
+their enemies, but few have given any directions in what way they may
+be overcome. I should neither attain my aim, nor realise the title of
+my work, if I did not notice them.
+
+Nothing is more prejudicial to bees than ignorant attention. Their most
+formidable enemies are, perhaps, their possessors, who busy themselves
+to torment them, and weaken and kill them by too much care. In winter
+they hurt them, by shutting them up for fear of the snow, without
+considering that many more perish in their unwholesome prison; and that
+the great humidity, having no outlet, moulds the combs, and sometimes
+even rots them. Who shuts up the wild bees in the forests of Lithuania,
+where they thrive so well? Their own instinct suffices; there they have
+no master to thwart them.
+
+In spring, the giving them a little honey, that would suffice to save
+them, is not always attended to, neither is the guarding them from
+moths, which at that time make the greatest havoc, nor is the narrowing
+of the entrances to prevent them being robbed. In summer I have seen
+persons leave only very small entrances to very populous hives, even
+when the bees were forming clusters, and so increase the ardour and
+activity of the workers. But this embarrassment only pained them, and
+retarded the gathering and laying up of their store.
+
+Some let swarms escape from mere carelessness. People suffocate them
+in autumn, that they may possess themselves of their provisions; and
+others take out the best of the honey and often too much of it, and so
+expose them to die of hunger; and they even sometimes annoy them by
+leaving too great a quantity of candied honey-comb, which is of no use
+to them, and the extraction of it from the cells costs many valuable
+lives, as I have already observed.
+
+I therefore place, in the foremost rank of their enemies, those of
+their _possessors_, who, by their own ignorance and inexperience,
+hinder them from prospering and multiplying.
+
+Ants are their least dangerous enemies; true, the bees cannot sting
+them to death, because they are small and well defended with armour,
+but they seize hold of them with their teeth, and carry them to a
+distance. Had they not this means of getting rid of them, their
+colonies could not exist in the vast forests full of ants' nests, and
+where they thrive so well, in spite of the horrible massacres that
+annually take place. I have never seen a hive destroyed by ants; they
+attack only weak swarms, that have been either pillaged before, or
+happen to be established in a lodging too large for them to defend.
+
+I recommend, however, to plaster up all chinks through which these
+little insects could gain an entrance.
+
+Moths are little known, and never injurious, in the high valleys, nor
+on the mountains, but they attack and destroy a vast number of hives in
+the plains or in the vineyards, where they are a great scourge. As soon
+as a moth has penetrated a weak hive, it establishes itself in a comb,
+envelopes itself in a silken web, multiplies rapidly, consuming the
+wax, and spreading its destructive galleries from side to side, until,
+arriving at a certain point, the evil has no remedy.
+
+I shall not repeat what I have said in the twentieth chapter, of the
+admirable ingenuity with which well-stocked hives defend themselves,
+by gnawing and reducing to crumbs every part of the wax that harbours
+a moth. Nor the means I have pointed out in Chapter VII. to diminish
+the number of their enemies in the spring, by frequently examining the
+little bits of wood used for contracting the entrance, or whenever
+the heated air of the hive is likely to attract butterflies, for the
+purpose of depositing their eggs. I shall only add, that when any
+trace of a moth is observed about a hive, it should immediately be
+cleaned away, and every little fragment of wax be swept off the board.
+If, in defiance of these precautions, it should seem that the moths
+have invaded some of the combs, the only means of saving the colony
+is, to imitate the surgeon, who cuts off a deceased limb to save the
+other,--every bit of infected comb must be cut out, leaving only those
+occupied by the bees. And the bees must then be liberally fed, by
+giving them every evening as much honey as will maintain them until the
+fields shall yield them a sufficient quantity. Thus I have preserved
+hives whose circumstances seemed to be desperate.
+
+Spiders annoy the bees much. The bees get entangled in their webs, and
+are not able to extricate themselves. Here cleanliness is the best
+protection; therefore care should be had to sweep the webs away from
+the hive and its avenues as fast as they appear.
+
+Birds eat a prodigious quantity of bees, especially in spring, when the
+trees are in blossom. Whatever people may say to the contrary, I have
+reason to think that the swallows, which are perpetually cruising about
+in the air, like so many corsairs, destroy a great number, to regale
+themselves, and to feed their young: this was the opinion of Virgil[5].
+
+[Footnote 5:
+
+  "Absint ... meropesque, aliæque volucres,
+  Et manibus Progne pectus signata cruentis.
+  Omnia nam late vastant, ipsasque volantes
+  Ore ferunt, dulcem nidis immitibus escam."
+
+                                    Georg. iv.]
+
+Moths destroy whole colonies: birds do not entirely destroy, but they
+diminish the population; the queens, especially, become an easy prey to
+them, their flight being heavy, from the great length of their bodies
+and shortness of their wings; and the queen, being the very soul of
+the hive, when she dies the whole will infallibly perish, if there is
+not some of the proper brood ready to fill her place; and, even in the
+latter case, the population is retarded in the fine weather, and the
+hive becomes languid. As this happened to me several times, I imputed
+it to the loss of my queens.
+
+The poultry, too, that roam about near the water where the bees go to
+quench their thirst, gobble up a great many of them, making a constant
+war on them, as deadly as that carried on by the birds. I have even
+seen a tame magpie place herself between two hives, peck right and
+left, and snap up hundreds of bees to her breakfast. She was caught in
+the act, condemned to death, and executed in the same instant.
+
+Mice, especially the red mouse, or _Sorex araneus_, sometimes penetrate
+a hive in the winter time, either from the entrance being left too
+wide, or by gnawing a hole for themselves in the straw. They eat the
+honey, and even the bees, when clustered together on the side of the
+hive, in which position they are unable to defend themselves, and
+scarcely even see the enemy. I have frequently seen a mouse's nest
+inside of a hive in spring, seemingly unperceived by the inhabitants.
+
+Wasps are also reckoned among the numerous enemies of bees. I have,
+however, seldom seen a hive destroyed by wasps: although they
+are larger, stronger, and armed with a formidable sting, and an
+impenetrable cuirass, they seldom dare enter a well stocked hive.
+Once attacked, they soon fall beneath the united efforts of these
+brave citizens, who sacrifice themselves to defend the place of their
+nativity. Wasps only appear in great numbers when the fruit is
+ripening, and then they range unceasingly round the hives, and enter
+the weak ones, or those of which the too spacious lodging hears no
+proportion to the number of its inhabitants. There are three ways of
+providing against the attacks of wasps. The first, is to unite weak
+hives by doubling or tripling the population, thereby enabling them to
+defend themselves. The second, is to contract the entrances as soon as
+the swarming time is over, after the massacre of the drones: and the
+third is, to destroy their nests.
+
+The bees are continually fighting between themselves, and robbing each
+other; avarice, not necessity, leads them to do so, it being almost
+always the strongest and best provisioned hives that pillage the weak
+ones. When once a bee has been able to introduce herself into a hive,
+and carry away a load of honey without being arrested, she will return
+a hundred times the same day; and, making it known to her companions,
+they will then come in hordes, nor cease their pillage until there
+is nothing left to take. In one day the whole of the honey will be
+carried off, and with a determination which one can scarcely have an
+idea of without seeing it. This kind of pillage is most frequent in
+the spring and autumn, and it is easier to prevent than to stop it;
+and, for this purpose, the entrance of the hives ought to be straitened
+in proportion to the population. Four soldiers, as I have already
+said, will more easily guard a narrow pass than thirty or forty would
+defend a great one. Whenever the bees cluster themselves in front of
+the hive, it is a proof that the whole of the interior is filled, and
+there is then no fear of pillage, excepting in a very rare case, when
+they happen not to observe the thieves, and of which I shall speak
+presently. In proportion as the cluster increases, the entrance should
+be widened, even opened entirely, and contracted again in the autumn
+after the destruction of the drones. When these precautions are not
+sufficient, and the pillage has commenced, it is not easy to stop it.
+It may succeed, however, in spring or autumn, by entirely closing the
+entrance of the besieged hive for one or two days, and putting a large
+cape upon it, or an empty hive, plastering it all round to prevent
+the bees getting out. This affords them a volume of air sufficient
+to prevent them from being suffocated, and they go up and down at
+pleasure through the hole in the top of the hive from which the stopper
+must have been previously withdrawn; every evening the entrance must be
+opened to give them air, and carefully shut up again in the morning. I
+have always found the two days seclusion sufficient to put a stop to
+the pillage. But this means is not practicable during the hot weather,
+for then the bees would infallibly be suffocated, if they were to be
+shut up but one hour. In this case, I have saved several by covering
+them with a wet table-cloth, and extending it over the front of the
+hive. The thieves, who were arriving in hundreds, threw themselves
+into the neighbouring hives, where they were arrested and killed; for
+all theft, even suspicion of theft, is invariably punished with death
+in these republics. Some of the thieves that happen to escape, regain
+their own dwellings, and warn their companions to beware of returning,
+and next day there will be no more thieving. I have never been obliged
+to spread the wet table-cloth a second time. True, many of the bees of
+the hive I was defending were sacrificed, returning from the fields,
+and being unable to gain admittance, they perished in some way or
+other: it was a small sacrifice, to avert a greater evil, but my hive
+was saved, and that was my object. It is a cure that does not always
+succeed, however, and is quite useless when the besieged hive is a weak
+one, or if much of the honey has been carried away.
+
+I shall not speak of toads, lizards, and all kinds of reptiles, that
+are ranked among the enemies of the bees, for I have never seen that
+they did them much harm.
+
+
+
+
+                             CHAPTER XXV.
+
+                         DISEASES OF THE BEES.
+
+
+Bees have no real disease. Dysentery, about which so much noise has
+been made, and for which so many remedies are prescribed, never attacks
+the bees of a well-stocked hive, that is left open at all seasons, but
+only those that are too long and too closely confined. They are always
+in good health as long as they are at liberty, when they are warm
+enough, and have plenty of food. All their pretended diseases are the
+result of hunger, cold, or the infection produced by a too close and
+long confinement during the winter.
+
+Some intelligent people have erroneously thought that the honey
+gathered from the flowers of the lime-tree caused dysentery, but
+experience convinced me to the contrary; for my hives were never in
+better condition than when the lime-tree flowers supplied them with
+honey in abundance.
+
+
+
+
+                             CHAPTER XXVI.
+
+                      OF THE DIFFERENT VARIETIES
+                     OF BEES, AND THEIR LANGUAGE.
+
+
+Almost all authors speak of four different kinds or varieties of the
+honey-bee. I frankly acknowledge that I know but of one; and that all
+the bees I have seen are equally profitable when properly taken care
+of. It is true my travels have not been very extended.
+
+As to their language: a slight buzzing or confused noise and a
+sharp sound, are signals by which they proclaim their danger, or
+seek assistance from each other. They appear to have the power of
+communicating their desires, their fears, their situation, and their
+circumstances. Their language, or whatever name is given to it,
+suffices to procure a concert of wills and actions, absolutely to
+attain a certain end; and of which I shall give a few examples.
+
+When a hive has lost its queen, a general agitation takes place, that
+cannot escape the notice of the most ordinary observer. They seek about
+for her on all sides, and, if she cannot be found, they set to work to
+supply her place. For this purpose, a great cell must be constructed,
+to serve her for a cradle: a single working bee cannot manufacture
+it. There must absolutely be a concerted plan,--to choose the place
+to do the work--to transport the newly hatched maggot--to nurse it
+suitably--and properly to close the cell when it is to undergo the
+metamorphosis.
+
+There must also be the same re-union of wills and efforts, when it
+relates to the getting rid of a moth that has established itself in
+a comb; they must ascertain its presence, feel the evil it may do,
+examine with care the extent of its galleries, and agree in the plan of
+attack and mode of operations; and how can they form and execute this
+plan, without the perfect concurrence of a great number of labourers?
+Such agreement is impossible without some sort of language.
+
+Is the hive to be cleaned? A general assessment is commanded, and the
+people instantly obey. A throng of labourers remove the dead, carry out
+the little bits of wax that are on the board, which would otherwise
+serve to feed the moths. Each of these crumbs costs them a journey; and
+that toil is spared them when care is taken to scrape and sweep the
+board from time to time.
+
+Another scheme of agreement that indicates a language, is where a
+bee finds honey, whether in a room, where it may have been deposited
+without shutting the windows, or in a stranger hive, where it has
+gained entrance. It communicates it to its companions, who rush out by
+hundreds or by thousands to obtain a share of the booty. How could they
+give this advertisement, without a species of language understood by
+every one of them.
+
+
+
+
+                            CHAPTER XXVII.
+
+                         SIGNS OF RECOGNITION
+                            AMONG THE BEES.
+
+
+The bees of a hive have the means of recognition, and of distinguishing
+their companions from every stranger bee; without which they could
+not defend their honey. In vain would the Creator have armed each of
+them with a formidable sting, had they not been also given to know
+the enemies which that sting was to pierce. Strangers would have gone
+in and out without risk of detection or punishment, mingled with the
+workers, and deprived them of treasures industriously collected. But
+the All-wise Author of Nature, who has given them the means of defence,
+has also endowed them with the instinct to distinguish enemies from
+friends, even among their own species. Let a bee fall by accident, or
+be driven by the wind, into a hive not its own, it is seized as one
+suspected of evil intention, and put to death that moment.
+
+What is their signal of recognition? What is the organ and the
+instrument? Is it the antennæ,--those little flexible horns in front of
+their heads? or is it by the smell they recognize each other?
+
+A great inconvenience attending crowded apiaries is, that two or more
+hives may have the same signal; but happily, in this case, which is
+a rare one, they have the power of changing the signal; in proof of
+which, the following circumstance happened with mine, in one of the
+most abundant honey seasons.
+
+In the month of May I had lodged my first swarm, which was a very
+strong one, in a large straw hive. The weather being very mild, they
+set to work immediately, and very soon filled more than half of the
+hive. In a few days, I observed it was invaded by a swarm belonging to
+one of my neighbours; that they went in and came out, without being
+detected; and that they were carrying out as much honey as my bees were
+bringing in.
+
+I shut up one-half of their door; and, for nearly a whole week,
+whenever I was at leisure, I stationed myself near my swarm, and killed
+every day hundreds of the thieves, which were easily distinguished by
+their shape,--slender enough when they went in, but puffed up as they
+came out, with as much nectar as they could contain. This, however, did
+not stop them, and they continued coming and going, in greater numbers,
+till night, and beginning again early in the morning.
+
+I had plenty of sport, but my labour was in vain, and I began to
+despair of saving my swarm, when, one afternoon, I perceived it to be
+agitated and troubled, as if it had lost its queen. The bees buzzed
+about before the hive, and on the board, smelling and touching each
+other, as if they would have spoken. It was to change their signal, and
+which in fact they did change, during the night; and all the strangers
+that came next day were arrested, and put to death. Some escaped the
+vigilance of the guards that defended the entrance, and doubtless
+warned the others of the danger they had escaped, and that they could
+no more plunder with impunity: they returned no more, and my hive
+prospered wonderfully. I have, in the course of my life, seen only
+other two similar instances that had the same result.
+
+
+
+
+                            CHAPTER XXVIII.
+
+                 PRESERVATION OF HIVES IN WINTER, AND
+                MEANS OF PROTECTING THEM FROM THE COLD.
+
+
+The most important point that remains to be treated, is the
+preservation of hives in winter. This severe season, which lasts at
+Neufchatel four months, from the commencement of November to the end
+of February, and which is even longer in the mountains, causes the
+death of more bees than all the enemies of all the other seasons put
+together; and mostly, too, from our own want of attention. It is
+by practice only that true principles can be laid down: and these
+principles must be variously modified, to adapt their application
+to the differences of temperature and locality. One can learn with
+certainty only by the light of experience. I shall proceed to tell
+what it has taught me; and here I enter on the most difficult and the
+most essential part of my task.
+
+We must suppose that the necessary care has been taken to ascertain
+that each hive has the quantity of provision necessary for its
+subsistence until the return of the fine season, and it is better
+that they should have too much than too little; for bees are great
+economists, and never waste their superfluity.
+
+I lay down as a general rule, and without any exception, that bees
+ought never to be fed during the winter. Food given them during that
+season causes disease, breeds infection, particularly if they are kept
+confined; and if they are at liberty, and forced out by the unwholesome
+smell of the hive, they are likely to perish from the cold. Besides, it
+always appeared to me that they consume more when food is given them by
+little and little, than when they have it in store. I have pointed out,
+in Chapter VIII. the certain rule by which the quantity of provision
+may be estimated; and, in Chapter XVII. I have detailed the method
+of supplying them in autumn. Thus they will be saved from hunger, if
+my advice be followed. Let us now see how they may be defended from
+cold, and the fatal effects of a long imprisonment. Some winters are
+so long and so rigid, that our valuable insects suffer greatly from
+the intensity of the cold; and the least evil it does them, is to
+crystallise their honey, which is then no longer of any use to them.
+The warmth keeps it in a fluid state; but this warmth, concentrated
+in the middle, or on one side of the hive, does not prevent it being
+candied in the other parts of it. More candied honey will generally be
+found on one side than the other. This may be prevented by narrowing
+the entrance, and closing up every crevice by which the external air
+can penetrate. Our industrious and provident little labourers set
+the example. Their instinct leads them, during the summer, carefully
+to close up every crack or joining of their habitation, with a sort
+of gummy matter called _propolis_, which cannot be penetrated either
+by the mice, the moths, or the ants. I have seen an excellent swarm
+perish, in consequence of a slight bend in the board, which left an
+interstice on each side, through which a cold north wind sifted, and
+froze more than three-fourths of the bees; and no after care was able
+to save those that were left.
+
+Two years after, another hive, belonging to the same person, carefully
+plastered round, but being made of too slight material, too thin, and
+having no covering, lost at least two-thirds of its population from
+cold. It was saved, however, by great care, and in time recovered. It
+is to avoid similar disasters that hives are commonly taken into the
+house; but this exposes them to the evil arising from infection.
+
+A thick strong-made hive is a more certain protection from the cold
+than one that is thin and light. It keeps in the warmth, like suitable
+winter clothing; while the other resembles an unseasonable summer
+garment: and, for this reason, I have recommended, in Chapter VI.
+not to spare the _material_. Notwithstanding the excessive cold of
+Lithuania, and the north of Russia, the swarms succeed in finding for
+themselves a comfortable abode in the hollows of the thick oak-trees,
+through which the cold does not penetrate. But, in addition to
+the warmth arising from the thickness of the hive, I always cover
+mine, during severe weather, with a piece of old blanket, or some
+such thing, to check the first impression of the cold; and as few
+country people have a thermometer, by which to estimate the degree of
+temperature, they should hasten to thatch, or cover them, in some way,
+whenever they perceive the hoar frost on the glass of their windows,
+which will be the case when the common thermometer of Fahrenheit
+descends three or four degrees below the freezing point.
+
+
+
+
+                             CHAPTER XXIX.
+
+                     MANNER OF PRESERVING HIVES BY
+                 TAKING THEM INTO THE HOUSE IN WINTER.
+
+
+It is generally supposed that, in the high valleys, and in the
+mountains, bees can only be preserved by taking the hives into
+the house in winter, where they must remain, until the snow has
+disappeared, before they can be set at liberty. I had this fatal
+prejudice for many years; but it was dispelled by the success attending
+the union of the five swarms of which I have given a detailed account
+in Chapter XVIII., at which time a ray of light broke in upon me that
+has since continued to guide me.
+
+The following winter I left out the one-half of my hives, and moved
+the other half into a cold room, according to my usual custom, where
+all the pains I bestowed upon them did not altogether keep them alive,
+nor preserve them from damp and infection. In vain I swept and cleaned
+the boards, or placed them on dry hay to absorb the moisture; in
+vain I gave them capes or joinings. With all my care, there was not
+one of them free of diseases and infection. The winter was long and
+severe; and they could not be returned to the air before the last week
+in March, by which time they were feeble and languid, and far less
+prosperous than those that had passed the winter out of doors. From
+that time, I have never taken one into the house. But, as hives that
+have been weakened by giving out too many swarms, especially swarms
+of the same year, that have not nearly filled the interior of their
+habitation with combs, are less subject to become overheated, and to
+mould, than those that are quite filled, and of which the population
+is very strong, the inhabitants of the mountains might have the latter
+in the open air all winter, and only move the others into the house.
+They will find, as I have done, that strong well filled hives are far
+best out of doors, provided they take the necessary precautions to
+prevent them from freezing.
+
+I have somewhere or other read an account of a very ingenious method
+of preserving hives in winter, but have not made trial of it, in
+consequence of not having a place fitting for it. According to this
+plan, one must have an empty room, very cold and dry, in which, from
+end to end, two long poles are suspended parallel to each other, and
+a foot of distance between them. As soon as the severe cold begins,
+and the thermometer is at the freezing point, the hives are all moved
+into this room, and set up upon the poles, without any board beneath
+them, and separate about half a foot from each other. Each hive must be
+numbered, and the numbers noted down, as well as the board and place
+that each occupied in the apiary, in order that they may be replaced
+in exactly the same situation on the return of spring. This done, the
+room is darkened, as the smallest ray of light will induce the bees
+to quit their hives; and, in this manner, they may be preserved in a
+healthy state, and without diminution of their numbers, during the
+winter; and, from being left entirely open below, any dead bees, or
+bits of wax, fall on the floor, and they escape the danger of infection.
+
+On the return of the fine season, and early in the morning of a calm
+day, the room is opened, and each hive returned to its own place on the
+apiary.
+
+I have reason to think that hives, wintered in this way, will consume
+a quarter, a third, or perhaps one-half less provision than others,
+if left on the apiary, or shut up entirely from the air; but we must
+attend less to the rigid economy of the honey, than to the preservation
+of the valuable insects that collect it for us.
+
+I possess only the theory of a practice of which I should have gloried
+in being the inventor, as it appears to me infallible, and advantageous
+in all its relations, but more especially to the inhabitants of the
+mountains. There two or three people might hire a room among them for
+the purpose; and, should the air become impure from so many hives
+being closed up together, it could be purified by opening the door
+during the night, and closing it well up again in the morning.
+
+
+
+
+                              CONCLUSION.
+
+
+I have now given the result of sixty-four years experience. This little
+memoir has extended beneath my pen far beyond my original intention;
+but it was of consequence in describing the new methods I had adopted,
+to give my reasons for every thing I recommended; and, for this
+purpose, to enter very minutely into the details. I have not written
+with elegance, but have expressed myself plainly; and, in giving
+the account of my experiments, it seemed to me that, to be clearly
+understood, I ought to relate naturally how I set about them, as the
+different circumstances occurred, and that every reader could more
+easily follow me, in seeing me _act_, as it were, than if I merely laid
+down general rules. Those I have given, have the rare advantage of
+being applicable to every kind of hive, of wood or straw, whether large
+or small, and of whatever form or shape. I have not recommended any one
+kind in particular, not even those that bear my name, as I consider
+them all equally profitable when skilfully taken care of. Every one
+may make use of such as he likes best, or such as he can most easily
+procure. I wish not to lead the apiarian into any expence, but to point
+out to him clearly those principles and rules that he should not lose
+sight of, if he wishes to preserve his bees and to profit by them.
+
+If this little work is favourably received by the public, and if my
+life is spared, I may be induced to give it a sequel, in which will
+be found new ideas concerning the drones, and their destination, with
+several experiments to discover if it is of any use to assist the bees
+in killing them; calculations of the yearly and average profit of a
+single hive, by which I would encourage the cultivators to work a rich
+mine whence great profit maybe drawn; and also directions for purifying
+the honey, as well as for melting the wax, none of which could have a
+place in this little book, the sole object, as expressed in the title,
+being the _preservation of the bees_.
+
+_Diminution of the Weight of my Hives during the Winter--from the 20th
+September 1813 to the 31st March 1814._
+
+              STRAW.
+
+No. 1.            diminished 10 pounds.
+    2.                       10½
+    3.                       12½
+    4.                       12
+    8.                       11
+   10.                        9
+   11.                        8½
+   13. doubled in October,   11
+   15.                       10½
+   16. doubled,              10½
+   17. doubled,              14
+   20.                       10
+   21.                       14
+   22. doubled,               8½
+   23.                       10½
+   24.                        9
+   25.                       15
+   26.                       12½
+   27.                       10½
+   30.                       13
+   32.                        9½
+   38.                        8
+    A.                        9½
+    B.                       10
+    C.                       12½
+    D.                       10½
+
+             WOOD.
+
+No. 1.            diminished 11½ pounds.
+    4. doubled,               9½
+    6.                       11
+    7.                        8½
+    8.                       19
+    9.                       10
+   11.                       15½
+   13.                       15
+   21.                       10
+   23. doubled,              11½
+
+To know exactly if the consumption of united hives was greater than
+that of those hives whose population had not been augmented, I weighed
+thirty-six hives on the 31st of March 1814, that had been previously
+weighed on the 20th September 1813; but I omitted those from which
+I had taken honey, as well as those I fed, as I did not weigh them.
+It may be observed, by the foregoing table, that the most economical
+expenditure amounts to eight pounds of honey, and that the greatest
+consumption is nineteen. I can attribute this enormous difference to
+nothing but pillage. It is very likely that the straw-hive, No. 38.,
+must have enriched itself with booty in October or in March, while the
+wooden hive No. 8. had been plundered. Of these thirty-six hives, six
+had been doubled in October, by the introduction of a strong swarm into
+each of them, and we see that their expenditure has not been greater
+than that of those colonies that were left single. In the course of
+six months and eleven days, one diminished only eight pounds and a
+half; one, nine and a half; one, ten and a half; one eleven; one,
+eleven and a half; and the least economical, fourteen pounds. This
+comparison demonstrates, that hives, doubled by the re-union of the
+bees of another hive, consume no more in winter than less populous
+hives, left in their natural state. The fact is clearly proved, though
+I am ignorant of the cause. I ought to observe, that all these doubled
+hives, with the exception of one old one, twenty-two years of age,
+prospered perfectly the year following, and gave me more honey and more
+swarms than all the others.
+
+
+
+
+                        NOTE BY THE TRANSLATOR.
+
+
+Some friends, for whom I entertain a very high respect, have remarked,
+on reading the proof sheets of this translation, that Gelieu appears
+to be very successful in preserving the bees, but that he does not
+prove so clearly that any great increase of honey is thereby to be
+obtained. To the practical apiarian this objection will never present
+itself; but, for the satisfaction of those who are not acquainted
+with bees, I regret not being in possession of Gelieu's calculation
+of the average profits of single and doubled hives: and I regret more
+especially, that, during the few years my attention has been directed
+to the management of bees, I have been contented with remarking the
+thriving condition of the apiary, without giving myself the trouble
+to calculate the exact amount of its produce. Those, however, who are
+accustomed to observe and to take care of bees, will know that the
+whole value of the hives depends on the swarms being large and early,
+and will therefore see at once the advantages to be gained by attending
+to Gelieu's directions. The results of my own experience are, in other
+respects, as follows.
+
+I have tried hives of various kinds: those of the common shape, made
+of straw; the still prettier sort, made of sea-shore bent (_Arundo
+arenaria_); the square-storied hive of wood; also the Huish hives;
+and, consequently, have had an opportunity of assuring myself that the
+success of the apiary depends neither on the form nor the material, but
+entirely on the treatment the bees meet with, and that hives may be
+made, with equal success, of whatever is most easily obtained in the
+district they are to be used in, always provided they are kept clean
+and are well managed. In some of the high valleys of the Alps, where
+straw is not to be had, and where every blade of grass is carefully
+economized for the use of the cattle, the hives are merely rough blocks
+of timber, sawn across the stems of the pine tree, and rudely scooped
+out to receive the swarms: these answer the purpose just as well as
+other hives; and the only or the chief difference, is the greater or
+less facilities which each affords for the extraction of the combs; an
+operation of easy performance in the Huish hives, when its inventor's
+directions are adhered to. But, in Switzerland, the same process is
+accomplished without difficulty in hives of any shape or material, by
+means of a knife, which is so simple in its construction, and so easily
+used, that it deserves to be made generally known. I therefore subjoin
+a figure, with a description and a note of the dimensions, from which
+it may be made by any country black-smith.
+
+[Illustration]
+
+This figure represents the shape of the knife; it is formed merely of
+a slip of iron, about two feet long by an eighth of an inch thick. The
+two horizontal lines _a a_ shew the size and appearance of the handle,
+which is twenty inches long by half an inch broad. The turned-down
+blade (_b_), of two inches in length, is spear-pointed, sharp on the
+edges, and bent perpendicularly from the handle. The other blade (_c_)
+is two inches long by one and a half broad, and sharpened all round, as
+marked by the double black line.
+
+The broad blade (_c_) cuts and separates the wax from the sides of the
+hive, and the spear-point (_b_), which is also sharp on each side,
+admits, from its direction and narrowness, of being introduced between
+the combs, to loosen them from the top of the hive; and, for the same
+reason, it also answers the purpose of pruning the combs.
+
+The honey-comb which is thus extracted, or which is obtained from the
+capes, is greatly superior to that which is suffered to remain in
+the hives till the autumn. The wax is thin and transparent, and the
+honey, being newly drawn from the nectaries, is particularly rich and
+delicious, as it has not had time to lose the fragrant and delicate
+flavour of the young flowers.
+
+Huish, it may be observed, gives very clear directions for extracting
+the combs from the hives that bear his name; he also recommends the
+uniting of swarms; but I could never obtain his instructions on this
+latter point. Doubting nothing of its practicability, however, I made
+the experiment, but having no guiding principle to direct me, it was
+like going to sea without a compass; and, in consequence, my hopes were
+soon wrecked, and I had the misery of seeing the whole of the swarm
+that I had saved from suffocation, speedily put to death by the bees of
+the hive that I had so rashly forced it to enter. The result, however,
+was widely different when I made the trial again last autumn, guided by
+the directions contained in this little volume, for I accomplished the
+union of my swarms without difficulty--even without previously having
+seen it done, and without having received a single sting; and I had
+thus the pleasure of witnessing my hopes crowned with complete success.
+
+For this operation, it is not necessary either to have the courage of a
+warrior, or the intelligence and coolness of a philosopher like M. de
+Gelieu. An ordinary degree of judgment to understand his directions,
+and confidence enough implicitly to follow them, will enable any one to
+perform it, provided he sets about it cautiously, and takes care not
+to hurt the bees, or to handle them roughly.
+
+I managed It, with the assistance of two persons, without gloves,
+or any shield or shadow of defence, except a little tobacco-smoke,
+involving us, as it were, within the influence of a charmed atmosphere,
+that seemed to stupify the bees, and render their sting powerless,
+while it inspired us with confidence to proceed. I recommend it being
+done at first by three persons, one to manage the hive and extract
+the combs, another to sweep the bees back gently with a feather or
+goose-wing, and a third to manage the fumigating bellows; or, if the
+fumigating-bellows are not at hand, to blow occasional whiffs of smoke
+from a tobacco-pipe.
+
+When my first cluster of bees was shaken out of the pillaged hive
+upon the table-cloth, I had the happiness of seeing them instantly
+begin their ascent (not on the wing) but in a regular march. It was a
+spectacle of intense interest. They entered the full hive as orderly
+and as peaceably as any body of regular troops ever took possession of
+a citadel; and next day the original possessors and the new settlers,
+were seen, in perfect harmony, working together for the general good.
+
+But whether they thought proper to kill a queen for themselves or not,
+was a fact that I had no means to ascertain.
+
+Thus encouraged by my first experiment, I proceeded to extend it. My
+whole apiary consisted of eight Huish hives, isolated on single pillars
+of wood, at the distance of three feet from each other. We emptied
+three more of the hives, and joined a swarm to each of the remaining
+three, making four doubled stock hives. The gardener who has the care
+of them, had five hives of his own, three of which were deprived of
+their honey in the same way, and the swarms joined to the remaining
+two, which he had kept as stock hives; and I am now enabled to state
+exactly the quantity of honey that each has consumed from September
+1828, to the end of March 1829.
+
+  No. 1. diminished          12 lb.
+      2.    "                 9
+      3.    "                12
+      4.    "                11
+
+  _The Gardener's Hives._
+
+  No. 1. A large common hive    17 lb.
+      2. A Huish hive           13
+
+It ought, however, to be mentioned, that my four hives got a pound and
+a half of honey among them, in February; but those belonging to the
+gardener got no feeding. The entrances of all of them were left open
+during the winter, and there were not altogether above two dozen dead
+bees found on the boards, when they were lifted to be weighed.
+
+The gardener's hive. No. 2., received two swarms in addition to its
+own; and this allied army took possession just as peaceably as the
+others, and actually consumed less honey during the winter than No. 1.,
+which was only doubled. In effecting the union, the citizens had been
+plentifully regaled with a sprinkling of liquid honey, previous to the
+introduction of the strangers; and there were as many luscious drops of
+the banquet left, as gave the new comers no disrelish to their quarters.
+
+For some years past, I have suffered no sticks to be put across the
+inside of any of my hives, as they render the extraction of the combs
+impracticable.
+
+       *       *       *       *       *
+
+It may be right to add, in conclusion, that I have, in one or two
+places, slightly altered the text where the meaning seemed obscure,
+and where mistakes might otherwise have occurred. I ought, perhaps, to
+have translated these passages quite literally, and to have corrected
+them in separate notes; but ignorance of book-making must be my excuse.
+
+
+                                FINIS.
+
+
+P. NEILL, PRINTER.
+
+
+       *       *       *       *       *
+
+
+
+Transcriber Note
+
+Minor typos were corrected.
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE BEE PRESERVER; OR,
+PRACTICAL DIRECTIONS FOR THE MANAGEMENT AND PRESERVATION OF HIVES ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
