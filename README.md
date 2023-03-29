@@ -24,3 +24,8 @@ Matérial de apoio para fazer o mini-projeto-6 contendo conceitos de Java.
 
 ## Mini-Projeto 6 
 Pipeline de Machine Learning em Java Para Previsão do Gasto Mensal com Combustível de Empresas de Transporte e Logística
+
+## Mini-Projeto 7
+Pipeline de Dados em java em Plataforma Apache Beam e Google Cloud Plataform (Cloud Storage) - pipeline que receba como entrada um arquivo 
+de texto (especificamente um livro inteiro) e retorne a frequência de cada uma das palavras, ou seja, 
+quantas vezes cada palavra aparece no texto.
