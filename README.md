@@ -33,3 +33,6 @@ quantas vezes cada palavra aparece no texto.
 ## Mini-Projeto 8
 Este mini-projeto traz a construção de uma app Java com um pipeline de processamento de dados em um cluster Spark com SparkSQL.
 Todo o mini-projeto aborda a construção da app, configuração passo a passo do ambiente de compilação da app com Maven e a execução da app no cluster Spark. Gestão de metadados é outro tema abordado na construção da app.
+
+## Mini-Projeto 9
+Este mini-projeto traz a construção de uma app Java para automatizar o processo ETL. Um componente do Apache Commons é usado para processamento de texto e a app é executada em um cluster Spark.
