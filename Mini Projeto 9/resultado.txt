@@ -1,0 +1,8 @@
+ETL Realizado no Arquivo dados.csv
+Número total de veículos: 392
+Número total de veículos produzidos nos EUA: 245
+Maior ano de fabricação dos veículos: 82
+Média de horsepower dos veículos produzidos no Japão: 79.83544303797468
+Média de horsepower dos veículos produzidos por país/continente: {usa=119.04897959183674, japan=79.83544303797468, europe=80.55882352941177}
+Marcas dos veículos: [Chevrolet, Buick, Plymouth, Amc, Ford, Pontiac, Dodge, Toyota, Datsun, Volkswagen, Peugeot, Audi, Saab, Bmw, Chevy, Hi, Mercury, Opel, Fiat, Oldsmobile, Chrysler, Mazda, Volvo, Renault, Toyouta, Maxda, Honda, Subaru, Chevroelt, Capri, Vw, Mercedes-benz, Cadillac, Mercedes, Vokswagen, Triumph, Nissan]
+Marca com maior número de veículos: ford
