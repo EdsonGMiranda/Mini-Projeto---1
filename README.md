@@ -36,3 +36,6 @@ Todo o mini-projeto aborda a construção da app, configuração passo a passo d
 
 ## Mini-Projeto 9
 Este mini-projeto traz a construção de uma app Java para automatizar o processo ETL. Um componente do Apache Commons é usado para processamento de texto e a app é executada em um cluster Spark.
+
+## Mini-Projeto 10
+Este mini-projeto traz a construção, compilação e execução de uma app Java que extrai e processa dados gerados em tempo real em um streaming de dados. Extração e processamento são feitos com a API Java do Apache Spark Streaming.
