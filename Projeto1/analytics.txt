@@ -1,0 +1,10 @@
+# Analytics
+
+# Considerando os dados de músicas com quase 7.000 registros, distribuídos em diversos arquivos, responda às 3 perguntas abaixo:
+
+1- Qual o artista e o comprimento (tempo) da música do sessionId = 436 e itemInSession = 12?
+
+2- Quais músicas o usuário do userid = 54 e sessionid = 616 ouviu? Retorne o nome do artista, o nome da música e nome e sobrenome do usuário.
+
+3- Quais usuários ouviram a música 'The Rhythm Of The Night'?
+

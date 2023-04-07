@@ -1,0 +1,24 @@
+# Instruções CQL
+
+DESCRIBE keyspaces;
+
+SELECT * FROM system_schema.keyspaces;
+
+DESCRIBE tables;
+
+DESCRIBE projeto1;
+
+DESCRIBE projeto1.tb_user_session;
+
+SELECT sessionid, COUNT(*) FROM projeto1.tb_user_session WHERE userid IN ('49', '50') GROUP BY sessionid;  
+
+SELECT sessionid, COUNT(*) FROM projeto1.tb_user_session WHERE userid IN ('49', '50') GROUP BY sessionid ALLOW FILTERING;
+
+SELECT sessionid, COUNT(*) FROM projeto1.tb_user_session WHERE userid = '49' GROUP BY sessionid ALLOW FILTERING;
+
+nodetool tablestats
+
+nodetool describecluster
+
+nodetool tablestats | grep "Keyspace :" | awk -F ":" '{print $2}'
+
