@@ -40,3 +40,7 @@ Este mini-projeto traz a construção de uma app Java para automatizar o process
 
 ## Mini-Projeto 10
 Este mini-projeto traz a construção, compilação e execução de uma app Java que extrai e processa dados gerados em tempo real em um streaming de dados. Extração e processamento são feitos com a API Java do Apache Spark Streaming.
+
+## Projeto 1 
+#Pipeline ETL em Python Para Carga de Dados e Analytics no Apache Cassandra
+Neste Projeto 1 o objetivo é construir um pipeline completo que inclui extração, transformação e carga de dados, além de um processo de Analytics. Tudo em um único pipeline. A Linguagem Python é usada nas etapas de extração e transformação. Carga e Analytcs são realizados no Apache Cassandra
