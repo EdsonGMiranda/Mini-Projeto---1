@@ -45,3 +45,8 @@ Este mini-projeto traz a construção, compilação e execução de uma app Java
 Pipeline ETL em Python Para Carga de Dados e Analytics no Apache Cassandra.
 
 Neste Projeto 1 o objetivo é construir um pipeline completo que inclui extração, transformação e carga de dados, além de um processo de Analytics. Tudo em um único pipeline. A Linguagem Python é usada nas etapas de extração e transformação. Carga e Analytcs são realizados no Apache Cassandra
+
+## Projeto 2
+Neste Projeto 2 o objetivo é construir um pipeline completo em Linguagem Python que inclui extração, transformação e carga de dados em um Data Lake (Mongodb).
+
+
