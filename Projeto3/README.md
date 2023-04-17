@@ -2,7 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/112988565/232615483-99a76a32-d0a8-45bf-9bdd-85b3de4c1268.png)
 
-pipeline  de  dados  para  ajudar  a  área  de negócio  a  analisar  dados com classificações e avaliações de hotéis do site Tripadvisor 
+pipeline  de  dados  para  ajudar  a  área  de negócio  a  analisar  dados com classificações e avaliações de hotéis do site Tripadvisor.
+
 O portal TripAdvisor fornece diversos dados sobre hotéistais como:número de estrelas, classificação, avaliação de clientes, entre outros dados. Usaremos um dataset no formato JSON extraído do TripAdvisor. 
 
 fonte: https://www.tripadvisor.com/
