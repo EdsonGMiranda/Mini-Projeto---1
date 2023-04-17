@@ -49,4 +49,5 @@ Neste Projeto 1 o objetivo é construir um pipeline completo que inclui extraç�
 ## Projeto 2
 Neste Projeto 2 o objetivo é construir um pipeline completo em Linguagem Python que inclui extração, transformação e carga de dados em um Data Lake (Mongodb).
 
-
+## Projeto 3
+Neste Proejto 3 construi um pipeline de dados para ajudar a área de negócio a analisar dados com classificações e avaliações de hotéis do site Tripadvisor
